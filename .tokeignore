@@ -7,4 +7,4 @@ requirements.txt
 scraper.py
 urls-ABP.txt
 urls-UBO.txt
-pihole.txt
+urls-pihole.txt
