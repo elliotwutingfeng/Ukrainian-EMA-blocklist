@@ -1,0 +1,10 @@
+.github/
+LICENSE
+README.md
+CODE_OF_CONDUCT.md
+renovate.json
+requirements.txt
+scraper.py
+urls-ABP.txt
+urls-UBO.txt
+pihole.txt
