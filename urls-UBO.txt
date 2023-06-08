@@ -846,6 +846,7 @@
 ||oschadnra.com^$all
 ||oschadnybank.com.ua^$all
 ||oshad.24get.site^$all
+||oshadbank.groxs.yachts^$all
 ||oshadbank.pro^$all
 ||osschad.secure2dpay.store^$all
 ||otp.no-pay.me^$all
@@ -1174,6 +1175,7 @@
 ||raiffeisen.dopomogaua.xyz^$all
 ||raiffeisen.epidtrumka.org^$all
 ||raiffeisen.gate-pays.me^$all
+||raiffeisen.groxs.yachts^$all
 ||raiffeisen.k-auch.buzz^$all
 ||raiffeisen.k-auch.quest^$all
 ||raiffeisen.muli-gan.me^$all
