@@ -1095,6 +1095,7 @@
 ||privat24investt.xyz^$all
 ||privatb24.0prs.site^$all
 ||privatbank.cardpay.onl^$all
+||privatbank.do-pom-oga.pro^$all
 ||privatbank.in.ua^$all
 ||privatbank.online-pays.tech^$all
 ||privatbank.payment-system.cloud^$all
