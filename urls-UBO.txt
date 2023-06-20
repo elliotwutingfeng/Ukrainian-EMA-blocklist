@@ -50,6 +50,7 @@
 ||afisha-theatres.fun^$all
 ||aft-agency.ru^$all
 ||afters-opros.top^$all
+||agit27rooniz.buzz^$all
 ||agmarkets.cc^$all
 ||agro-souz.simdif.com^$all
 ||agro-souzz.simdif.com^$all
@@ -501,6 +502,7 @@
 ||klisp-o.site^$all
 ||ko-gos.top^$all
 ||koqos.store^$all
+||krasa.site^$all
 ||kreditavtomat.jimdo.com^$all
 ||kredityvcenter.top^$all
 ||kredityvhome.top^$all
