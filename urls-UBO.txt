@@ -57,6 +57,7 @@
 ||ai.marketing^$all
 ||aid-edopomoga.pro^$all
 ||aidogov.site^$all
+||akvapark.site^$all
 ||alfa-gos.top^$all
 ||alfabankua.tilda.ws^$all
 ||alfacard.tilda.ws^$all
@@ -1447,6 +1448,7 @@
 ||winpayday.shop^$all
 ||wise-pay.info^$all
 ||wmobile.in.ua^$all
+||wmtua666.top^$all
 ||wolsir.com^$all
 ||work-trud.space^$all
 ||world-electronik.com^$all
