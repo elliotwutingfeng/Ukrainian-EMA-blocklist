@@ -453,6 +453,7 @@
 ||inhibitionfriction.top^$all
 ||inkassa-24.shop^$all
 ||inquirypatch.top^$all
+||inter-plus-ua.com^$all
 ||internet.trend.net.ua^$all
 ||interpay-ua.com^$all
 ||interpay.money^$all
