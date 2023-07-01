@@ -1333,6 +1333,7 @@
 ||timebox-ua.com^$all
 ||tobinances.ru.com^$all
 ||todaynewsua.wixsite.com^$all
+||toidopomoga.org^$all
 ||top-terminal.com.ua^$all
 ||topayback.com^$all
 ||topline.space^$all
