@@ -249,6 +249,7 @@
 ||dazzlingcortex.com^$all
 ||de-gos.top^$all
 ||dear-gos.top^$all
+||delivvery-uaa.shop^$all
 ||designp.org^$all
 ||detskiykvartal.uk^$all
 ||diia-gov.pp.ua^$all
