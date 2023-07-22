@@ -265,6 +265,7 @@
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
 ||dopomoga-epay.site^$all
+||dostavaollp.shop^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
 ||dram-teatr.fun^$all
@@ -851,6 +852,7 @@
 ||oschadnra.com^$all
 ||oschadnybank.com.ua^$all
 ||oshad.24get.site^$all
+||oshadbank.gomoneyua.site^$all
 ||oshadbank.groxs.yachts^$all
 ||oshadbank.pro^$all
 ||osschad.secure2dpay.store^$all
@@ -1101,6 +1103,7 @@
 ||privatb24.0prs.site^$all
 ||privatbank.cardpay.onl^$all
 ||privatbank.do-pom-oga.pro^$all
+||privatbank.gomoneyua.site^$all
 ||privatbank.in.ua^$all
 ||privatbank.online-pays.tech^$all
 ||privatbank.payment-system.cloud^$all
@@ -1181,6 +1184,7 @@
 ||raiffeisen.dopomogaua.xyz^$all
 ||raiffeisen.epidtrumka.org^$all
 ||raiffeisen.gate-pays.me^$all
+||raiffeisen.gomoneyua.site^$all
 ||raiffeisen.groxs.yachts^$all
 ||raiffeisen.k-auch.buzz^$all
 ||raiffeisen.k-auch.quest^$all

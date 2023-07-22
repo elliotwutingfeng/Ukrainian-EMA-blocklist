@@ -265,6 +265,7 @@ dolidka.top
 domopoga-ua.nopersonexty.online
 dompaidscentr.shop
 dopomoga-epay.site
+dostavaollp.shop
 dram-satyr.fun
 dram-teatr.art
 dram-teatr.fun
@@ -851,6 +852,7 @@ oschadbank.ul-pay.me
 oschadnra.com
 oschadnybank.com.ua
 oshad.24get.site
+oshadbank.gomoneyua.site
 oshadbank.groxs.yachts
 oshadbank.pro
 osschad.secure2dpay.store
@@ -1101,6 +1103,7 @@ privat24investt.xyz
 privatb24.0prs.site
 privatbank.cardpay.onl
 privatbank.do-pom-oga.pro
+privatbank.gomoneyua.site
 privatbank.in.ua
 privatbank.online-pays.tech
 privatbank.payment-system.cloud
@@ -1181,6 +1184,7 @@ raiffeisen.diialsbd.pro
 raiffeisen.dopomogaua.xyz
 raiffeisen.epidtrumka.org
 raiffeisen.gate-pays.me
+raiffeisen.gomoneyua.site
 raiffeisen.groxs.yachts
 raiffeisen.k-auch.buzz
 raiffeisen.k-auch.quest
