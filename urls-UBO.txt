@@ -10,6 +10,7 @@
 ||1xwin.bet^$all
 ||24-kassa.shop^$all
 ||24grandcasino.com^$all
+||24next.doromogaresort.online^$all
 ||24privat.site^$all
 ||2cards.info^$all
 ||2cards.site^$all
@@ -819,6 +820,7 @@
 ||originalsalle.online^$all
 ||oschad.3dss-pays.info^$all
 ||oschad.cake-payment.me^$all
+||oschad.doromogaresort.online^$all
 ||oschad.gbd-dfb.com^$all
 ||oschad.nag-jdc.cloud^$all
 ||oschad.nato-gov.com^$all
@@ -1157,6 +1159,7 @@
 ||raif.24get.site^$all
 ||raif.cake-payment.me^$all
 ||raif.coolpay.life^$all
+||raif.doromogaresort.online^$all
 ||raif.gbd-dfb.com^$all
 ||raif.nag-jdc.cloud^$all
 ||raif.nato-gov.com^$all
