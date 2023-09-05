@@ -857,6 +857,7 @@
 ||oshadbank.gomoneyua.site^$all
 ||oshadbank.groxs.yachts^$all
 ||oshadbank.pro^$all
+||oshadbank.uaperekaz2p2.pw^$all
 ||osschad.secure2dpay.store^$all
 ||otp.no-pay.me^$all
 ||otp.pay-ukraine.com^$all
@@ -1109,6 +1110,7 @@
 ||privatbank.in.ua^$all
 ||privatbank.online-pays.tech^$all
 ||privatbank.payment-system.cloud^$all
+||privatbank.uaperekaz2p2.pw^$all
 ||privatbankcredit.com^$all
 ||privatcard.site^$all
 ||privatpay.me^$all
@@ -1195,6 +1197,7 @@
 ||raiffeisen.otrumaite.co^$all
 ||raiffeisen.perekaz24.website^$all
 ||raiffeisen.tu-auch.quest^$all
+||raiffeisen.uaperekaz2p2.pw^$all
 ||raiffesen.pro^$all
 ||raketa24.net^$all
 ||rastamogka.net^$all
