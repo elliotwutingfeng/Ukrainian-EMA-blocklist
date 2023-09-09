@@ -618,6 +618,7 @@
 ||mobiman.in^$all
 ||mobipay-ua.com^$all
 ||mobipay.in.ua^$all
+||mobiplategi.lol^$all
 ||mobiplay.in.ua^$all
 ||mobishopi.in.ua^$all
 ||mobitop.biz^$all
