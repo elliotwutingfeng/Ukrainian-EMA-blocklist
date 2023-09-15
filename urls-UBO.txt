@@ -705,6 +705,7 @@
 ||next24.xx-pay.me^$all
 ||nextkasaexpert.shop^$all
 ||nextpayments.org.ru^$all
+||nexxt.pw^$all
 ||nova-pay.net^$all
 ||novapay-ua.com^$all
 ||novaposhta-pay.live^$all
