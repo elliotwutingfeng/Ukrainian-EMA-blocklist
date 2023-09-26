@@ -1388,6 +1388,7 @@
 ||uapdvkomp.yolasite.com^$all
 ||uappl.org^$all
 ||uashop-goodstore.wixsite.com^$all
+||ukawar.art.blog^$all
 ||ukr-help.online^$all
 ||ukr-money.com.ua^$all
 ||ukr-one.xyz^$all
