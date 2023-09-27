@@ -1265,6 +1265,7 @@
 ||shtuka.mya5.ru^$all
 ||sigarilla.net^$all
 ||sistem-pay.com.ua^$all
+||sites.google.com^$all
 ||skartyfree.top^$all
 ||skipass.bukovel.store^$all
 ||skipass.top^$all
