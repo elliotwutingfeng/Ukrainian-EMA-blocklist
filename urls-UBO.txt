@@ -118,6 +118,7 @@
 ||bassein-ukraine.com^$all
 ||bbaja.cn^$all
 ||beads-needs.com^$all
+||bestcrutches.com^$all
 ||bestshopid.in.ua^$all
 ||besttransfer-ukr.com^$all
 ||betxwin.bet^$all
@@ -525,6 +526,7 @@
 ||kypogatu.motends.com^$all
 ||larimel.com.ua^$all
 ||lauaul.anuill.com^$all
+||leemsedo.co.ua^$all
 ||lesopilka-group.com.ua^$all
 ||letiletiavia.online^$all
 ||letsgoua.com^$all
