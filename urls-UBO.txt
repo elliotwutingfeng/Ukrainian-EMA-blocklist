@@ -75,6 +75,7 @@
 ||amex-pay.com.ua^$all
 ||amo-opros.top^$all
 ||an-gos.top^$all
+||ap.diuaaaaxxx.sbs^$all
 ||app-privat24.me^$all
 ||apple-tech.net^$all
 ||appleculture.com.ua^$all
