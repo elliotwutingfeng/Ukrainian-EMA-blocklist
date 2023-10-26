@@ -952,6 +952,7 @@
 ||pestrio.site^$all
 ||phonepay.biz.ua^$all
 ||pirtmone.info^$all
+||pkeedo.co.ua^$all
 ||platashop.in.ua^$all
 ||plategi-city.com.ua^$all
 ||plategka.co.ua^$all
