@@ -107,6 +107,8 @@
 ||avtorizaciyadankingtelegram.simdif.com^$all
 ||avtorizaciyaoschadi.simdif.com^$all
 ||avtorizaciyaoschadid.simdif.com^$all
+||awsmall.net^$all
+||awsvip.cc^$all
 ||aykks.top^$all
 ||babycar.od.ua^$all
 ||back.multistream.space^$all
