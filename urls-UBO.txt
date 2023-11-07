@@ -250,6 +250,7 @@
 ||creditshome.online^$all
 ||creditsmix.online^$all
 ||csd-lab.com^$all
+||csd.c787888.com^$all
 ||cybe-gos.top^$all
 ||dayprices.shop^$all
 ||dazzlingcortex.com^$all
