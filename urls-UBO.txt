@@ -1485,6 +1485,7 @@
 ||wovser.com^$all
 ||wwdwd.cn^$all
 ||www.afters-opros.top^$all
+||www.agogo01.top^$all
 ||www.aliance-inc.com^$all
 ||www.apple-ua.store^$all
 ||www.auto-formula.com^$all
