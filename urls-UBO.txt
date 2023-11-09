@@ -1520,6 +1520,7 @@
 ||www.good-store.in.ua^$all
 ||www.goodstore-ua.shop^$all
 ||www.goodstore.in.ua^$all
+||www.goshoppings01.com^$all
 ||www.grac-opros.top^$all
 ||www.growthstrategyinstitute.com^$all
 ||www.gsmpay.in.ua^$all
