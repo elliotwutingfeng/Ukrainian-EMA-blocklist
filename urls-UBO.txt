@@ -669,6 +669,7 @@
 ||my-gov.uperevod.icu^$all
 ||my-gov.uplata.cyou^$all
 ||my-gov.uvyplata.icu^$all
+||myfrlathome.net^$all
 ||mymobile.in.ua^$all
 ||mymoneypay.ulcraft.com^$all
 ||mypay.co.ua^$all
