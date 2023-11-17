@@ -1466,6 +1466,7 @@
 ||voram-net.blogspot.com^$all
 ||vsad.com.ua^$all
 ||vyplataua.com^$all
+||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
