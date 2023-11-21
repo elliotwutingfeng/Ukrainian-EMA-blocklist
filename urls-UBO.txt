@@ -268,6 +268,7 @@
 ||diving-turizm.com^$all
 ||diya-edopomoga.online^$all
 ||dl-gos.top^$all
+||doge-earn.com^$all
 ||dolidka.top^$all
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
@@ -1219,6 +1220,7 @@
 ||rewison.ga^$all
 ||rfterua.space^$all
 ||rikter-lor.ru^$all
+||ringo-bet.net^$all
 ||rmarket.club^$all
 ||ross.biz.ua^$all
 ||royale-casino.net^$all
@@ -1496,6 +1498,7 @@
 ||www.bellpay.in.ua^$all
 ||www.beslctnamga.online^$all
 ||www.big-partner.kh.ua^$all
+||www.bitfinecc.com^$all
 ||www.box-service.com.ua^$all
 ||www.buylanmobi.in.ua^$all
 ||www.cash-you.info^$all
@@ -1505,6 +1508,7 @@
 ||www.coffeeland.biz.ua^$all
 ||www.coffeerabota.online^$all
 ||www.corpi-gos.top^$all
+||www.crvearn.com^$all
 ||www.currency-ukraine.com^$all
 ||www.dopomoga-ua.online^$all
 ||www.dramateatr.fun^$all
