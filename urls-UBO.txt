@@ -477,6 +477,7 @@
 ||iprod.kz^$all
 ||iqos-heets.com.ua^$all
 ||isend2card.com^$all
+||isnuman.com^$all
 ||it-magg.com^$all
 ||ival-gos.top^$all
 ||ivl-gos.top^$all
@@ -584,6 +585,7 @@
 ||marvelouslucky.info^$all
 ||mastercardbanking.tech^$all
 ||mastercardspeed.tech^$all
+||matchamazon.com^$all
 ||mayo.com.ua^$all
 ||mbgrand.ml^$all
 ||mc-ocean.com.ua^$all
@@ -1512,6 +1514,7 @@
 ||www.currency-ukraine.com^$all
 ||www.dopomoga-ua.online^$all
 ||www.dramateatr.fun^$all
+||www.dsshsh.shop^$all
 ||www.easybox-ukr.com^$all
 ||www.ecoliinfectionpedia.com^$all
 ||www.eu-st.site^$all
