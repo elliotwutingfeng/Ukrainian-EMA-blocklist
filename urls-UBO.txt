@@ -958,6 +958,7 @@
 ||perewadka.top^$all
 ||pestrio.site^$all
 ||phonepay.biz.ua^$all
+||pillapt.com^$all
 ||pirtmone.info^$all
 ||pkeedo.co.ua^$all
 ||platashop.in.ua^$all
@@ -1490,6 +1491,7 @@
 ||worldlotteryplace.com^$all
 ||wovser.com^$all
 ||wwdwd.cn^$all
+||www.abcdhotel.net^$all
 ||www.afters-opros.top^$all
 ||www.agogo01.top^$all
 ||www.aliance-inc.com^$all
