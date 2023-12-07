@@ -77,6 +77,7 @@
 ||an-gos.top^$all
 ||ap.diuaaaaxxx.sbs^$all
 ||app-privat24.me^$all
+||app.mdglobal.site^$all
 ||apple-tech.net^$all
 ||appleculture.com.ua^$all
 ||apps-opros.top^$all
@@ -385,11 +386,13 @@
 ||giroskuter.net.ua^$all
 ||global-business.su^$all
 ||global-iqos.com^$all
+||global018.com^$all
 ||globalmani-coin.com^$all
 ||globalmoney.cc^$all
 ||globalnet.tvshop.site^$all
 ||globalonline-ua.com^$all
 ||globalp2p.tech^$all
+||globalua38.com^$all
 ||globapay24.com^$all
 ||go2ere.com^$all
 ||goeth.io^$all
@@ -447,6 +450,7 @@
 ||i-dopomoga.space^$all
 ||ibank-atcib.com^$all
 ||ibox-city.com.ua^$all
+||iboyun.net^$all
 ||igenius.ga^$all
 ||igoog.ru^$all
 ||ikea-market.com.ua^$all
@@ -582,6 +586,7 @@
 ||maneyveo.co.ua^$all
 ||marianna.site-fresh.ru^$all
 ||marketrest.com^$all
+||marvelmoviepromotion.com^$all
 ||marvelouslucky.info^$all
 ||mastercardbanking.tech^$all
 ||mastercardspeed.tech^$all
@@ -1402,6 +1407,7 @@
 ||uapdvkomp.yolasite.com^$all
 ||uappl.org^$all
 ||uashop-goodstore.wixsite.com^$all
+||ubi.investments^$all
 ||ukawar.art.blog^$all
 ||ukr-help.online^$all
 ||ukr-money.com.ua^$all
@@ -1471,6 +1477,7 @@
 ||voram-net.blogspot.com^$all
 ||vsad.com.ua^$all
 ||vyplataua.com^$all
+||wbtheaterchain.vip^$all
 ||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
 ||webinfom.ru^$all
@@ -1526,6 +1533,7 @@
 ||www.gbm.biz.ua^$all
 ||www.global-cash.com.ua^$all
 ||www.global-connect.com.ua^$all
+||www.globalukrainian6.com^$all
 ||www.goldpayment-ukr.com^$all
 ||www.good-store-shop.com^$all
 ||www.good-store.in.ua^$all
@@ -1613,6 +1621,7 @@
 ||www.uplata-24.com^$all
 ||www.viber-darit-prizy.xyz^$all
 ||www.vitebox-ukr.info^$all
+||www.wbtheaterchain.com^$all
 ||www.westpayment-ukr.com^$all
 ||www.xbox-ua.com^$all
 ||www.yooour-apple.in.ua^$all
