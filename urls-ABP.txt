@@ -111,6 +111,7 @@
 ||awsmall.net^
 ||awsvip.cc^
 ||aykks.top^
+||azimutheshop.com^
 ||babycar.od.ua^
 ||back.multistream.space^
 ||badge-gos.top^
@@ -153,6 +154,7 @@
 ||bonuspay.com.ua^
 ||boomer-cinema.me^
 ||boomer-cinema.org^
+||bortlaksds.xyz^
 ||botmobi.in.ua^
 ||bow-gos.top^
 ||box.inf.ua^
@@ -373,6 +375,7 @@
 ||found-gos.top^
 ||free-oplata.com^
 ||freezar.org^
+||friendly-work.kyiv.ua^
 ||fs-system.ru^
 ||fumeky.xyz^
 ||funpay.ru^
@@ -437,6 +440,7 @@
 ||hipx.pro^
 ||hit-info.org^
 ||hobbi-ua.com^
+||hollywoodfilmjobs8.com^
 ||homeanimal.site^
 ||homearfes.com^
 ||homeperevotday.com^
@@ -467,6 +471,7 @@
 ||inhibitionfriction.top^
 ||inkassa-24.shop^
 ||inquirypatch.top^
+||intelligence-revolution.tilda.ws^
 ||inter-plus-ua.com^
 ||internet.trend.net.ua^
 ||interpay-ua.com^
@@ -1446,6 +1451,7 @@
 ||unic-numder.frontime-pro.ru^
 ||united-dopomoga.pro^
 ||united-payment.com.ua^
+||united-work.kyiv.ua^
 ||unix-change.world^
 ||unlgame.com^
 ||unllotto.com^
@@ -1617,6 +1623,8 @@
 ||www.trustpay-ua.com^
 ||www.ukr-garant.com^
 ||www.ukraine-box.com^
+||www.ukrainejobs.xyz^
+||www.ukrainework.online^
 ||www.ukrnet-box.com^
 ||www.uplata-24.com^
 ||www.viber-darit-prizy.xyz^

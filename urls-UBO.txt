@@ -111,6 +111,7 @@
 ||awsmall.net^$all
 ||awsvip.cc^$all
 ||aykks.top^$all
+||azimutheshop.com^$all
 ||babycar.od.ua^$all
 ||back.multistream.space^$all
 ||badge-gos.top^$all
@@ -153,6 +154,7 @@
 ||bonuspay.com.ua^$all
 ||boomer-cinema.me^$all
 ||boomer-cinema.org^$all
+||bortlaksds.xyz^$all
 ||botmobi.in.ua^$all
 ||bow-gos.top^$all
 ||box.inf.ua^$all
@@ -373,6 +375,7 @@
 ||found-gos.top^$all
 ||free-oplata.com^$all
 ||freezar.org^$all
+||friendly-work.kyiv.ua^$all
 ||fs-system.ru^$all
 ||fumeky.xyz^$all
 ||funpay.ru^$all
@@ -437,6 +440,7 @@
 ||hipx.pro^$all
 ||hit-info.org^$all
 ||hobbi-ua.com^$all
+||hollywoodfilmjobs8.com^$all
 ||homeanimal.site^$all
 ||homearfes.com^$all
 ||homeperevotday.com^$all
@@ -467,6 +471,7 @@
 ||inhibitionfriction.top^$all
 ||inkassa-24.shop^$all
 ||inquirypatch.top^$all
+||intelligence-revolution.tilda.ws^$all
 ||inter-plus-ua.com^$all
 ||internet.trend.net.ua^$all
 ||interpay-ua.com^$all
@@ -1446,6 +1451,7 @@
 ||unic-numder.frontime-pro.ru^$all
 ||united-dopomoga.pro^$all
 ||united-payment.com.ua^$all
+||united-work.kyiv.ua^$all
 ||unix-change.world^$all
 ||unlgame.com^$all
 ||unllotto.com^$all
@@ -1617,6 +1623,8 @@
 ||www.trustpay-ua.com^$all
 ||www.ukr-garant.com^$all
 ||www.ukraine-box.com^$all
+||www.ukrainejobs.xyz^$all
+||www.ukrainework.online^$all
 ||www.ukrnet-box.com^$all
 ||www.uplata-24.com^$all
 ||www.viber-darit-prizy.xyz^$all
