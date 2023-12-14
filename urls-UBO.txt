@@ -422,6 +422,7 @@
 ||groshigo.tech^$all
 ||group-general.com^$all
 ||gsmmobi.in.ua^$all
+||gt770.com^$all
 ||gtradex.net^$all
 ||gulf-can.com^$all
 ||handmadebeads.online^$all
@@ -1302,6 +1303,7 @@
 ||smartsup.pro^$all
 ||snasty.shop^$all
 ||snp-broker.io^$all
+||socprofile.com^$all
 ||soctrud.com^$all
 ||some-gos.top^$all
 ||sove-gos.top^$all
@@ -1412,6 +1414,7 @@
 ||uapdvkomp.yolasite.com^$all
 ||uappl.org^$all
 ||uashop-goodstore.wixsite.com^$all
+||ubi-investments.com^$all
 ||ubi.investments^$all
 ||ukawar.art.blog^$all
 ||ukr-help.online^$all
@@ -1486,6 +1489,7 @@
 ||wbtheaterchain.vip^$all
 ||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
+||web.seyrosnpaynhe.website^$all
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
 ||wegroup.com.ua^$all
