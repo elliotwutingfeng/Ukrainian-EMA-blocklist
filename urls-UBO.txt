@@ -437,6 +437,7 @@
 ||help-gos.top^$all
 ||help-ukrain.xyz^$all
 ||helpukraine.direct^$all
+||helpukraine24na7.tilda.ws^$all
 ||hermesfx.io^$all
 ||hipx.pro^$all
 ||hit-info.org^$all
@@ -1491,6 +1492,7 @@
 ||wbtheaterchain.vip^$all
 ||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
+||web.eebankosdoxla.site^$all
 ||web.seyrosnpaynhe.website^$all
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
