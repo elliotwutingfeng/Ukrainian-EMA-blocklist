@@ -134,6 +134,7 @@
 ||biletland.xyz^$all
 ||biletmaster.xyz^$all
 ||billetshot.top^$all
+||bio.link^$all
 ||bistrie-viplati.club^$all
 ||bitcoin-zuba.ga^$all
 ||blago-kovel.shop^$all
@@ -276,6 +277,7 @@
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
 ||dopomoga-epay.site^$all
+||dopomoga.newsukrgl.online^$all
 ||dostavaollp.shop^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
