@@ -153,6 +153,8 @@
 ||bocymatoma.butilar.com^$all
 ||bonus-email.aaclp.top^$all
 ||bonuspay.com.ua^$all
+||boo-king.shop^$all
+||boo-king.xyz^$all
 ||boomer-cinema.me^$all
 ||boomer-cinema.org^$all
 ||bortlaksds.xyz^$all
