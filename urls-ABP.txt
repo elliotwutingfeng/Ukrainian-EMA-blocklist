@@ -39,6 +39,7 @@
 ||abicor-ukr.com.ua^
 ||abox-ukraine.com^
 ||abs-techno.ru^
+||ac.xgttc128.com^
 ||accept-opros.top^
 ||activeservice-ua.com^
 ||activuser.pw^
@@ -153,6 +154,7 @@
 ||bocymatoma.butilar.com^
 ||bonus-email.aaclp.top^
 ||bonuspay.com.ua^
+||boo-king.net^
 ||boo-king.shop^
 ||boo-king.xyz^
 ||boomer-cinema.me^
