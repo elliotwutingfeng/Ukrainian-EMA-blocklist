@@ -154,6 +154,7 @@
 ||bocymatoma.butilar.com^$all
 ||bonus-email.aaclp.top^$all
 ||bonuspay.com.ua^$all
+||bonvivant01.com^$all
 ||boo-king.net^$all
 ||boo-king.shop^$all
 ||boo-king.xyz^$all
@@ -1507,6 +1508,7 @@
 ||winpayday.shop^$all
 ||wise-pay.info^$all
 ||wmobile.in.ua^$all
+||wmsra.com^$all
 ||wmtua666.top^$all
 ||wolsir.com^$all
 ||work-trud.space^$all
