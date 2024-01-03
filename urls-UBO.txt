@@ -157,6 +157,7 @@
 ||bonvivant01.com^$all
 ||boo-king.net^$all
 ||boo-king.shop^$all
+||boo-king.vip^$all
 ||boo-king.xyz^$all
 ||boomer-cinema.me^$all
 ||boomer-cinema.org^$all
@@ -1326,6 +1327,7 @@
 ||starbox-terminal.com.ua^$all
 ||start-auto.kiev.ua^$all
 ||startsmart.com.ua^$all
+||stecmcommunnity.com^$all
 ||step-time.com.ua^$all
 ||stimeler.ga^$all
 ||stop-sopa.appspot.com^$all
@@ -1500,7 +1502,9 @@
 ||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
 ||web.eebankosdoxla.site^$all
+||web.fioporsudogtberp.cf^$all
 ||web.seyrosnpaynhe.website^$all
+||web.weiworlmartoreave.tk^$all
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
 ||wegroup.com.ua^$all
