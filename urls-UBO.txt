@@ -277,6 +277,7 @@
 ||direktolog.vipmoney.xyz^$all
 ||diving-turizm.com^$all
 ||diya-edopomoga.online^$all
+||diyanow.balilikonstruksion.com^$all
 ||dl-gos.top^$all
 ||doge-earn.com^$all
 ||dolidka.top^$all
@@ -1486,6 +1487,7 @@
 ||ves-gos.top^$all
 ||vh20153.hv4.ru^$all
 ||vip-animal.com^$all
+||vip-booking.shop^$all
 ||vipfoix.wixsite.com^$all
 ||viplata-komitet.top^$all
 ||viplaty.online^$all
