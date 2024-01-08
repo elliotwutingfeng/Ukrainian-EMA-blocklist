@@ -396,6 +396,7 @@
 ||getpay-ua.com^$all
 ||gfc.kiev.ua^$all
 ||giroskuter.net.ua^$all
+||gizmosinfo.com^$all
 ||global-business.su^$all
 ||global-iqos.com^$all
 ||global018.com^$all
@@ -445,6 +446,7 @@
 ||help-fynancegov.com^$all
 ||help-gos.top^$all
 ||help-ukrain.xyz^$all
+||helpspeoples.nicepage.io^$all
 ||helpukraine.direct^$all
 ||helpukraine24na7.tilda.ws^$all
 ||hermesfx.io^$all
@@ -1605,6 +1607,7 @@
 ||www.multichangez.com^$all
 ||www.multplex.fun^$all
 ||www.mytechno.com.ua^$all
+||www.natthame.com^$all
 ||www.newfinance.com.ua^$all
 ||www.niceeuphoria.com^$all
 ||www.olx-privat24.tk^$all
