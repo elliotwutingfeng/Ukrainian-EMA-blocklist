@@ -1295,6 +1295,7 @@
 ||shop-ineed24.store^
 ||shop-ua-appleua5.wixsite.com^
 ||shopibest.com.ua^
+||shopistorev.xyz^
 ||shoppay.in.ua^
 ||shopplaton.in.ua^
 ||shopua-yooourapple3.wixsite.com^
@@ -1502,6 +1503,7 @@
 ||vizatravel.ru.com^
 ||voram-net.blogspot.com^
 ||vsad.com.ua^
+||vulkanslots.online^
 ||vyplataua.com^
 ||wbtheaterchain.vip^
 ||wdcfsfsfgbs.com^
