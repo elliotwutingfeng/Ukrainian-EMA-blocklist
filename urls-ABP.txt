@@ -161,6 +161,7 @@
 ||boo-king.xyz^
 ||boomer-cinema.me^
 ||boomer-cinema.org^
+||bootragolt.icu^
 ||bortlaksds.xyz^
 ||botmobi.in.ua^
 ||bow-gos.top^
@@ -984,6 +985,7 @@
 ||pillapt.com^
 ||pirtmone.info^
 ||pkeedo.co.ua^
+||planet-ua.com^
 ||platashop.in.ua^
 ||plategi-city.com.ua^
 ||plategka.co.ua^
