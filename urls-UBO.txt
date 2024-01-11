@@ -754,6 +754,7 @@
 ||novaposta-ua-dostavka.services^$all
 ||novo-billing.info^$all
 ||novok.com.ua^$all
+||npdosttaavockkaa.space^$all
 ||oacisapp.top^$all
 ||oacisaps.top^$all
 ||oacisapt.top^$all
@@ -1409,6 +1410,7 @@
 ||transfervsem.tech^$all
 ||transfervsem24.tech^$all
 ||transfervsem365.tech^$all
+||tripa-dvisor.org^$all
 ||tris-gos.top^$all
 ||trpayuan.site^$all
 ||trud11.xyz^$all
@@ -1493,6 +1495,7 @@
 ||ves-gos.top^$all
 ||vh20153.hv4.ru^$all
 ||vip-animal.com^$all
+||vip-booking.net^$all
 ||vip-booking.shop^$all
 ||vipfoix.wixsite.com^$all
 ||viplata-komitet.top^$all
