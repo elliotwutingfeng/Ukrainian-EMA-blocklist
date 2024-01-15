@@ -279,6 +279,7 @@
 ||diving-turizm.com^$all
 ||diya-edopomoga.online^$all
 ||diyanow.balilikonstruksion.com^$all
+||diyanow.myhelp.charity^$all
 ||dl-gos.top^$all
 ||doge-earn.com^$all
 ||dolidka.top^$all
@@ -1507,6 +1508,7 @@
 ||visiters.net^$all
 ||vizatravel.ru.com^$all
 ||voram-net.blogspot.com^$all
+||vremted.qromso.workers.dev^$all
 ||vsad.com.ua^$all
 ||vulkanslots.online^$all
 ||vyplataua.com^$all
