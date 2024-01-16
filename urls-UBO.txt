@@ -168,6 +168,7 @@
 ||box.inf.ua^$all
 ||brainintelligencetraining.com^$all
 ||brokcomp.com.ua^$all
+||brovistave.org^$all
 ||bui-gos.top^$all
 ||bukovel.store^$all
 ||bul-opros.top^$all
