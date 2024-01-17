@@ -1525,6 +1525,7 @@
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
 ||wegroup.com.ua^$all
+||werewkaskorobydet.business^$all
 ||windon.pp.ua^$all
 ||winpayday.shop^$all
 ||wise-pay.info^$all
