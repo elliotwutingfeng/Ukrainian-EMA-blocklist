@@ -365,6 +365,7 @@
 ||finance-active.com.ua^
 ||finance-dopomoga.site^
 ||finance-helpya.com^
+||finbet.org.ua^
 ||finens.biz^
 ||firefly-line.com^
 ||firmusha.top^
