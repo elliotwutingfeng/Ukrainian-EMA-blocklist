@@ -1402,6 +1402,7 @@
 ||toptur.pro^$all
 ||topup.sbs^$all
 ||touristrestaurant.com^$all
+||tovaronlineollx.za.com^$all
 ||trade.hermesfx.io^$all
 ||tradeengine24.ru^$all
 ||tradevisa.net^$all
