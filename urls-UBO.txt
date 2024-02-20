@@ -254,6 +254,7 @@
 ||contribution.thunderingappearance.xyz^$all
 ||cool-survey.top^$all
 ||copywriteagency.org^$all
+||crazy-hero.com^$all
 ||crediacgricole.no-pay.me^$all
 ||crediacgricole.pcs-order.me^$all
 ||crediacgricole.xu-pay.me^$all
@@ -799,6 +800,7 @@
 ||olx.blue^$all
 ||olx.id394817.site^$all
 ||olx.moe^$all
+||olx.oplatline.online^$all
 ||olx.safepayment.site^$all
 ||olx.ua-dellvery.site^$all
 ||olx.ua-dostawa.me^$all
