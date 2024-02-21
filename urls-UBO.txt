@@ -243,6 +243,7 @@
 ||clubkassa-24.shop^$all
 ||clubkassa24.top^$all
 ||clubprices.shop^$all
+||clxb.ee^$all
 ||cnopm.ml^$all
 ||co-opros.top^$all
 ||coffee-inspiration.com^$all
@@ -571,6 +572,7 @@
 ||likte.club^$all
 ||link-traidcompany.com^$all
 ||litebox-ukr.com^$all
+||lkonlinepersonal.za.com^$all
 ||loanalfa.tech^$all
 ||loansecure.tech^$all
 ||localditcolmc.online^$all
