@@ -1328,6 +1328,7 @@
 ||snp-broker.io^
 ||socprofile.com^
 ||soctrud.com^
+||sofly.trange.workers.dev^
 ||some-gos.top^
 ||sove-gos.top^
 ||specheart.com^
@@ -1361,6 +1362,7 @@
 ||suppay.biz^
 ||swap-pro.trade^
 ||swift-pay.com.ua^
+||swk1001.com^
 ||sxblogtradellcusa.icu^
 ||systempay.kiev.ua^
 ||t0p2pay.fun^
@@ -1685,6 +1687,7 @@
 ||x7-mikepike.buzz^
 ||xiaomi-store.com.ua^
 ||xingjxcgbdylbj.store^
+||xiongmao002.com^
 ||xrates.ru^
 ||xtradercorpvlog2020.icu^
 ||yakor.shop^
