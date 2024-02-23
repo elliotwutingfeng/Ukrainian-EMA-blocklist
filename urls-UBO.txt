@@ -59,6 +59,7 @@
 ||ai.marketing^$all
 ||aid-edopomoga.pro^$all
 ||aidogov.site^$all
+||aio-product.net^$all
 ||akvapark.site^$all
 ||alfa-gos.top^$all
 ||alfabankua.tilda.ws^$all
@@ -214,6 +215,7 @@
 ||cashbyphone.top^$all
 ||cashinphone.top^$all
 ||cashpass.ru^$all
+||cashsupportline.za.com^$all
 ||cashtophone.top^$all
 ||casino-1xbet.com^$all
 ||casino-williamhill.cc^$all
@@ -1254,6 +1256,7 @@
 ||refreshmentsubmarine.top^$all
 ||regadwerts.ru^$all
 ||rewison.ga^$all
+||rezina-diski.com.ua^$all
 ||rfterua.space^$all
 ||rikter-lor.ru^$all
 ||ringo-bet.net^$all
