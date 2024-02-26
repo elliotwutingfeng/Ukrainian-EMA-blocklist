@@ -273,6 +273,7 @@
 ||de-gos.top^$all
 ||dear-gos.top^$all
 ||delivvery-uaa.shop^$all
+||delliveryy.olxtne.workers.dev^$all
 ||designp.org^$all
 ||detskiykvartal.uk^$all
 ||diia-gov.pp.ua^$all
@@ -292,6 +293,7 @@
 ||dompaidscentr.shop^$all
 ||dopomoga-epay.site^$all
 ||dopomoga.newsukrgl.online^$all
+||doppolch.site^$all
 ||dostavaollp.shop^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
@@ -1111,6 +1113,7 @@
 ||portomne.info^$all
 ||poshta1.eu^$all
 ||pr-invest.org^$all
+||prembo.quiled.workers.dev^$all
 ||premium-pay.com.ua^$all
 ||prestige-pay.info^$all
 ||primanka.com.ua^$all
@@ -1508,6 +1511,7 @@
 ||very-pay.com.ua^$all
 ||ves-gos.top^$all
 ||vh20153.hv4.ru^$all
+||vidprawunya.guarrano-guild.workers.dev^$all
 ||vip-animal.com^$all
 ||vip-booking.net^$all
 ||vip-booking.shop^$all
