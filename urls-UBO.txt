@@ -173,6 +173,7 @@
 ||bui-gos.top^$all
 ||bukovel.store^$all
 ||bul-opros.top^$all
+||burlgo.com^$all
 ||busfor-online.site^$all
 ||busfor-ua.payments-cars.com^$all
 ||businespro.ru^$all
@@ -389,6 +390,7 @@
 ||for-gos.top^$all
 ||forbestua.com^$all
 ||force-pay.info^$all
+||foresttoy.homes^$all
 ||forhome.site^$all
 ||fortunateeuphoria.com^$all
 ||found-gos.top^$all
@@ -478,6 +480,7 @@
 ||ibank-atcib.com^$all
 ||ibox-city.com.ua^$all
 ||iboyun.net^$all
+||idtnf.site^$all
 ||igenius.ga^$all
 ||igoog.ru^$all
 ||ikea-market.com.ua^$all
@@ -1683,6 +1686,7 @@
 ||www.ukrnet-box.com^$all
 ||www.uplata-24.com^$all
 ||www.viber-darit-prizy.xyz^$all
+||www.vidprawinua.workers.dev^$all
 ||www.vitebox-ukr.info^$all
 ||www.wbtheaterchain.com^$all
 ||www.westpayment-ukr.com^$all
