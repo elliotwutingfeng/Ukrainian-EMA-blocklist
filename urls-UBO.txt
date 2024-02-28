@@ -373,6 +373,7 @@
 ||finance-dopomoga.site^$all
 ||finance-helpya.com^$all
 ||finbet.org.ua^$all
+||finbet.top^$all
 ||finens.biz^$all
 ||firefly-line.com^$all
 ||firmusha.top^$all
@@ -812,6 +813,7 @@
 ||olx.moe^$all
 ||olx.oplatline.online^$all
 ||olx.safepayment.site^$all
+||olx.suppline24.online^$all
 ||olx.ua-dellvery.site^$all
 ||olx.ua-dostawa.me^$all
 ||olx.ua.dostavasafe.site^$all
