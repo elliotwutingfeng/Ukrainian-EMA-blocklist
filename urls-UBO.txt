@@ -77,6 +77,7 @@
 ||amex-pay.com.ua^$all
 ||amo-opros.top^$all
 ||an-gos.top^$all
+||aobsdfo.space^$all
 ||ap.diuaaaaxxx.sbs^$all
 ||app-privat24.me^$all
 ||app.mdglobal.site^$all
@@ -293,6 +294,7 @@
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
 ||dopomoga-epay.site^$all
+||dopomoga-social1.com^$all
 ||dopomoga.newsukrgl.online^$all
 ||doppolch.site^$all
 ||dostavaollp.shop^$all
@@ -1021,6 +1023,7 @@
 ||pochtant.eu^$all
 ||poirtmone.in.ua^$all
 ||pokecoince-go.com^$all
+||poldenkirbusiness.dunthemonster9121.workers.dev^$all
 ||pololnyska.ru^$all
 ||poluchibilet.online^$all
 ||poluchka.3dss-pays.info^$all
@@ -1432,6 +1435,7 @@
 ||transfervsem.tech^$all
 ||transfervsem24.tech^$all
 ||transfervsem365.tech^$all
+||trejo.luqos.workers.dev^$all
 ||tripa-dvisor.org^$all
 ||tris-gos.top^$all
 ||trpayuan.site^$all
@@ -1550,6 +1554,7 @@
 ||windon.pp.ua^$all
 ||winpayday.shop^$all
 ||wise-pay.info^$all
+||wkl2126.com^$all
 ||wmobile.in.ua^$all
 ||wmsra.com^$all
 ||wmtua666.top^$all
