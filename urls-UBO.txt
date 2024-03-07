@@ -461,6 +461,7 @@
 ||help-fynancegov.com^$all
 ||help-gos.top^$all
 ||help-ukrain.xyz^$all
+||helpmoneyua.za.com^$all
 ||helpspeoples.nicepage.io^$all
 ||helpukraine.direct^$all
 ||helpukraine24na7.tilda.ws^$all
@@ -594,6 +595,7 @@
 ||lostchemodans.com.ua^$all
 ||lotohappy2019.top^$all
 ||lotto-ukr.com^$all
+||louvre.mom^$all
 ||loyal-pay.com^$all
 ||lpay.space^$all
 ||luckyfront.ru^$all
@@ -1541,6 +1543,7 @@
 ||wbtheaterchain.vip^$all
 ||wdcfsfsfgbs.com^$all
 ||web-payments.com.ua^$all
+||web-portal-dopomoha-ua.dnfj.ru.com^$all
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
 ||web.serliconcaromu.tk^$all
