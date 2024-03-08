@@ -213,6 +213,7 @@
 ||cash2phone.top^$all
 ||cash4phone.info^$all
 ||cash4phone.top^$all
+||cashaidnetwork.za.com^$all
 ||cashbox-ua.com^$all
 ||cashbyphone.top^$all
 ||cashinphone.top^$all
@@ -270,6 +271,7 @@
 ||csd-lab.com^$all
 ||csd.c787888.com^$all
 ||cybe-gos.top^$all
+||da-tesi.com^$all
 ||dayprices.shop^$all
 ||dazzlingcortex.com^$all
 ||de-gos.top^$all
@@ -433,6 +435,7 @@
 ||good-opros.top^$all
 ||good.ua-tovary.info^$all
 ||goodmob.dp.ua^$all
+||goods.transfer-e08.workers.dev^$all
 ||gopays.in.ua^$all
 ||gos-viplata.top^$all
 ||goturozetka.com^$all
@@ -1472,6 +1475,7 @@
 ||ukr-paybox.com^$all
 ||ukr-poch.me^$all
 ||ukr-sistempay.com.ua^$all
+||ukr.reg-dostavka.workers.dev^$all
 ||ukraine-furniture.com.ua^$all
 ||ukraine-payment.com.ua^$all
 ||ukraineamazon.com^$all
