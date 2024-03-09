@@ -800,6 +800,7 @@
 ||olimp-home.com^$all
 ||ollos.ru^$all
 ||olx-alert.com^$all
+||olx-mymoneydefense.defmyolx.workers.dev^$all
 ||olx-pays.com^$all
 ||olx-pays.website^$all
 ||olx-poshta.info^$all
@@ -870,6 +871,7 @@
 ||oplatimob.info^$all
 ||oplatiphone.info^$all
 ||oplatite.com.ua^$all
+||oprhomew.com^$all
 ||opros247.download^$all
 ||opros247.faith^$all
 ||opros247.men^$all
@@ -1029,6 +1031,7 @@
 ||poirtmone.in.ua^$all
 ||pokecoince-go.com^$all
 ||poldenkirbusiness.dunthemonster9121.workers.dev^$all
+||polihomew.com^$all
 ||pololnyska.ru^$all
 ||poluchibilet.online^$all
 ||poluchka.3dss-pays.info^$all
