@@ -291,6 +291,7 @@
 ||diyanow.balilikonstruksion.com^$all
 ||diyanow.myhelp.charity^$all
 ||dl-gos.top^$all
+||dnr-service.ru^$all
 ||doge-earn.com^$all
 ||dolidka.top^$all
 ||domopoga-ua.nopersonexty.online^$all
@@ -299,6 +300,7 @@
 ||dopomoga-social1.com^$all
 ||dopomoga.newsukrgl.online^$all
 ||doppolch.site^$all
+||dostav.do-orolx.workers.dev^$all
 ||dostavaollp.shop^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
