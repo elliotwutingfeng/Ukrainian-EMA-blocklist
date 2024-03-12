@@ -91,6 +91,7 @@
 ||arri-pay.top^$all
 ||asia.top-blogs.xyz^$all
 ||ask-opros.top^$all
+||atb-bonus.com^$all
 ||atb-market.space^$all
 ||atbmarket.life^$all
 ||atkassa24.top^$all
@@ -715,6 +716,7 @@
 ||moskassaplus.shop^$all
 ||mospaidsmarket.top^$all
 ||motohouseua.com^$all
+||msneu.com^$all
 ||msyie0-c2a7.cn^$all
 ||my-gov.uperevod.icu^$all
 ||my-gov.uplata.cyou^$all
