@@ -408,6 +408,7 @@
 ||fs-system.ru^$all
 ||fumeky.xyz^$all
 ||funpay.ru^$all
+||fxclub.site^$all
 ||fxprime365.com^$all
 ||galaktika-ua.com^$all
 ||general-box.com^$all
@@ -1356,6 +1357,7 @@
 ||socprofile.com^$all
 ||soctrud.com^$all
 ||sofly.trange.workers.dev^$all
+||softmax.co.ua^$all
 ||some-gos.top^$all
 ||sove-gos.top^$all
 ||specheart.com^$all
@@ -1488,6 +1490,7 @@
 ||ukraineamazon.com^$all
 ||ukrainedrama.fun^$all
 ||ukraineebay.vip^$all
+||ukrainefundfinders.za.com^$all
 ||ukrainehelp.cloud^$all
 ||ukrainehelp.gives^$all
 ||ukrainehelp.wiki^$all
