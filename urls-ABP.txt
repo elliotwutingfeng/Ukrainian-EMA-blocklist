@@ -768,6 +768,7 @@
 ||nextkasaexpert.shop^
 ||nextpayments.org.ru^
 ||nexxt.pw^
+||noaf.dostawka.workers.dev^
 ||nova-pay.net^
 ||novapay-ua.com^
 ||novaposhta-pay.live^
@@ -1533,6 +1534,7 @@
 ||uu-quest.xyz^
 ||uuauq.cn^
 ||uz-gos.top^
+||vegas-x-mirror.online^
 ||very-pay.com.ua^
 ||ves-gos.top^
 ||vh20153.hv4.ru^
@@ -1589,6 +1591,7 @@
 ||www.afters-opros.top^
 ||www.agogo01.top^
 ||www.aliance-inc.com^
+||www.amazonv.shop^
 ||www.apple-ua.store^
 ||www.auto-formula.com^
 ||www.auto-pay.com.ua^
