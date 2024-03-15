@@ -273,6 +273,7 @@
 ||csd.c787888.com^
 ||cybe-gos.top^
 ||da-tesi.com^
+||dancekupetsky.site^
 ||dayprices.shop^
 ||dazzlingcortex.com^
 ||de-gos.top^
@@ -576,6 +577,7 @@
 ||kuplbllet.site^
 ||kyivstarbezlim.com^
 ||kypogatu.motends.com^
+||lably.qurse.workers.dev^
 ||larimel.com.ua^
 ||lauaul.anuill.com^
 ||leemsedo.co.ua^
@@ -589,6 +591,7 @@
 ||likepay.org^
 ||likte.club^
 ||link-traidcompany.com^
+||linkin.bio^
 ||litebox-ukr.com^
 ||lkonlinepersonal.za.com^
 ||loanalfa.tech^
@@ -806,6 +809,7 @@
 ||olimp-home.com^
 ||ollos.ru^
 ||olx-alert.com^
+||olx-moneytransfer.olxsecuring.workers.dev^
 ||olx-mymoneydefense.defmyolx.workers.dev^
 ||olx-pays.com^
 ||olx-pays.website^
@@ -1355,6 +1359,8 @@
 ||smartsup.pro^
 ||snasty.shop^
 ||snp-broker.io^
+||social-pidtrumka1.com^
+||social-vuplata-br.com^
 ||socprofile.com^
 ||soctrud.com^
 ||sofly.trange.workers.dev^
