@@ -555,6 +555,7 @@
 ||kiev-favorit.com^$all
 ||kievfinance-ukr.com^$all
 ||kievstar.online^$all
+||kievstar.org^$all
 ||king-electronik.com^$all
 ||kinoloft.com^$all
 ||kinomax.me^$all
