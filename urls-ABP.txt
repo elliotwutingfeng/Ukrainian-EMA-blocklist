@@ -170,6 +170,7 @@
 ||bow-gos.top^
 ||box.inf.ua^
 ||brainintelligencetraining.com^
+||breepy.gumloe.workers.dev^
 ||brokcomp.com.ua^
 ||brovistave.org^
 ||bui-gos.top^
@@ -1313,6 +1314,7 @@
 ||scooter.club.tilda.ws^
 ||screen-shop.com.ua^
 ||sd-pc.site^
+||seae2.ua-dos.workers.dev^
 ||securedeng.info^
 ||sekret.vipmoney.xyz^
 ||send-pay.com.ua^
