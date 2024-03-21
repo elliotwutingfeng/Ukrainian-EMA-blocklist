@@ -620,6 +620,7 @@
 ||m-dopomoga.info^$all
 ||m-dopomoga.live^$all
 ||m-dopomoga.site^$all
+||m-kyivstar.org^$all
 ||m.annualaddictive.top^$all
 ||m.bc-help.net^$all
 ||m.determinecrust.top^$all
