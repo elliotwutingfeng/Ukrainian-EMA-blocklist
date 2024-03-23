@@ -133,6 +133,7 @@
 ||betxwin.bet^$all
 ||bezpeka-online-24.su^$all
 ||bezpekaua.info^$all
+||bf4f5009.4845c94a05a102c2a2e8e339.workers.dev^$all
 ||big-uah.top^$all
 ||bilet.space^$all
 ||biletland.xyz^$all
@@ -314,6 +315,7 @@
 ||dramatheatrua.fun^$all
 ||draw-opros.top^$all
 ||dufafaststinen.gq^$all
+||duiuaheki.com^$all
 ||e-dopomoga.cc^$all
 ||e-dopomoga.in^$all
 ||e-dopomoga.website^$all
@@ -381,6 +383,7 @@
 ||finance-active.com.ua^$all
 ||finance-dopomoga.site^$all
 ||finance-helpya.com^$all
+||finbet.online^$all
 ||finbet.org.ua^$all
 ||finbet.top^$all
 ||finens.biz^$all
@@ -742,6 +745,7 @@
 ||nalichkago.online^$all
 ||nalichkapay.online^$all
 ||namemo.ucraft.site^$all
+||nanolook.com^$all
 ||nek0samurai.github.io^$all
 ||nekly.henly.workers.dev^$all
 ||neobank.pcs-order.me^$all
