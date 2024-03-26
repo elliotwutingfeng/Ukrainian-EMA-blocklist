@@ -308,6 +308,7 @@ dopomoga.newsukrgl.online
 doppolch.site
 dostav.do-orolx.workers.dev
 dostavaollp.shop
+dostavka-fast.secure-pau.workers.dev
 dram-satyr.fun
 dram-teatr.art
 dram-teatr.fun
@@ -1138,6 +1139,7 @@ popolnynatel.info
 popolnyphone.info
 popovny-mobile.com
 porimone.info
+pornmagazine.com
 portm0ne.ru
 portmine.in.ua
 portmine.info

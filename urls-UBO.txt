@@ -306,6 +306,7 @@
 ||doppolch.site^$all
 ||dostav.do-orolx.workers.dev^$all
 ||dostavaollp.shop^$all
+||dostavka-fast.secure-pau.workers.dev^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
 ||dram-teatr.fun^$all
@@ -1122,6 +1123,7 @@
 ||popolnyphone.info^$all
 ||popovny-mobile.com^$all
 ||porimone.info^$all
+||pornmagazine.com^$all
 ||portm0ne.ru^$all
 ||portmine.in.ua^$all
 ||portmine.info^$all
