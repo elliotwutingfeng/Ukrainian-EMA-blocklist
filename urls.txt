@@ -959,6 +959,7 @@ osschad.secure2dpay.store
 otp.no-pay.me/otpersonal/0925855051
 otp.pay-ukraine.com
 otp.pcs-order.me
+otrumunya-dostwunya.insurouche.workers.dev
 ovs-gos.top/?sub=ndsch1&#038;pix=509678260820355
 ozero-ua.com
 p-24bezpeka.su

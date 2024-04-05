@@ -944,6 +944,7 @@
 ||otp.no-pay.me^
 ||otp.pay-ukraine.com^
 ||otp.pcs-order.me^
+||otrumunya-dostwunya.insurouche.workers.dev^
 ||ovs-gos.top^
 ||ozero-ua.com^
 ||p-24bezpeka.su^
