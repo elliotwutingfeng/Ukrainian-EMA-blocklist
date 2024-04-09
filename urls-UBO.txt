@@ -750,6 +750,7 @@
 ||nek0samurai.github.io^$all
 ||nekly.henly.workers.dev^$all
 ||neobank.pcs-order.me^$all
+||neopaycredit.tilda.ws^$all
 ||nettgola.site^$all
 ||newauction.com.ua^$all
 ||newbaroque.org^$all
