@@ -276,6 +276,7 @@
 ||cybe-gos.top^$all
 ||da-tesi.com^$all
 ||dancekupetsky.site^$all
+||dav-workers.superbagag.workers.dev^$all
 ||dayprices.shop^$all
 ||dazzlingcortex.com^$all
 ||de-gos.top^$all
