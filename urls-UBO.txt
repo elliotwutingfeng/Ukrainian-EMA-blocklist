@@ -141,6 +141,7 @@
 ||billetshot.top^$all
 ||bio.link^$all
 ||bistrie-viplati.club^$all
+||bit8363.buzz^$all
 ||bitcoin-zuba.ga^$all
 ||blago-kovel.shop^$all
 ||blago-privat24.3ida.site^$all
