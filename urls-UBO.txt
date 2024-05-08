@@ -302,7 +302,9 @@
 ||dolidka.top^$all
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
+||dop-sotsialyna.com^$all
 ||dopomoga-epay.site^$all
+||dopomoga-gov.com^$all
 ||dopomoga-social1.com^$all
 ||dopomoga.newsukrgl.online^$all
 ||doppolch.site^$all
@@ -1415,6 +1417,7 @@
 ||swk1001.com^$all
 ||sxblogtradellcusa.icu^$all
 ||systempay.kiev.ua^$all
+||t.reklvyplatukr-gxt.buzz^$all
 ||t0p2pay.fun^$all
 ||tabakekoteks.ua.market^$all
 ||tachsend.com^$all
