@@ -303,6 +303,7 @@
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
 ||dop-sotsialyna.com^$all
+||dopomoga-2024-ua.legiticstartup.com^$all
 ||dopomoga-epay.site^$all
 ||dopomoga-gov.com^$all
 ||dopomoga-social1.com^$all
