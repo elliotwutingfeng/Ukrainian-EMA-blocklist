@@ -413,6 +413,7 @@
 ||forhome.site^$all
 ||fortunateeuphoria.com^$all
 ||found-gos.top^$all
+||frame.xcakaelf.shop^$all
 ||free-oplata.com^$all
 ||freezar.org^$all
 ||friendly-work.kyiv.ua^$all
@@ -788,6 +789,7 @@
 ||noaf.dostawka.workers.dev^$all
 ||nova-pay.net^$all
 ||novapay-ua.com^$all
+||novapay.lijjl.shop^$all
 ||novaposhta-pay.live^$all
 ||novaposhta-safedostavka.site^$all
 ||novaposhta-ua.recive-money.icu^$all
