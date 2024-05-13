@@ -187,6 +187,7 @@
 ||buybest.in.ua^
 ||buymiui.com.ua^
 ||buyshop.in.ua^
+||buyua.olx-shop.workers.dev^
 ||bvs-rabota.net^
 ||byurodp.gq^
 ||ca-jsc-credit-agricole-bank-ukraine.ru.aptoide.com^
@@ -1449,6 +1450,7 @@
 ||theathre-ukraine.fun^
 ||theathreua.fun^
 ||theatre-ua.fun^
+||theatrelive.online^
 ||theatresatir.fun^
 ||thefiniko.com^
 ||thoughtfulwear.top^
