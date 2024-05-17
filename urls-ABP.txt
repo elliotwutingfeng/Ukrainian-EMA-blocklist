@@ -184,6 +184,7 @@
 ||businespro.ru^
 ||businesystem.ru^
 ||bux1.org^
+||buy.pro-olx-dostavka.workers.dev^
 ||buybest.in.ua^
 ||buymiui.com.ua^
 ||buyshop.in.ua^
@@ -1433,6 +1434,7 @@
 ||tascombank.online^
 ||tax-compensation.bar^
 ||tech-start-company.com^
+||techline.co.ua^
 ||technobank.com.ua^
 ||technolend.com.ua^
 ||technotrader.com.ua^
