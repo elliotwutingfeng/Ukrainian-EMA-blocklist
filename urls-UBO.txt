@@ -314,6 +314,7 @@
 ||dostav.do-orolx.workers.dev^$all
 ||dostavaollp.shop^$all
 ||dostavka-fast.secure-pau.workers.dev^$all
+||dostawkaolx.kogama6864.workers.dev^$all
 ||dram-satyr.fun^$all
 ||dram-teatr.art^$all
 ||dram-teatr.fun^$all
@@ -486,6 +487,7 @@
 ||helpspeoples.nicepage.io^$all
 ||helpukraine.direct^$all
 ||helpukraine24na7.tilda.ws^$all
+||heodapo-helpiaud.fun^$all
 ||hermesfx.io^$all
 ||hipx.pro^$all
 ||hit-info.org^$all
@@ -1257,6 +1259,7 @@
 ||rabota-web.xyz^$all
 ||rabota1.xyz^$all
 ||radixgroup.ru^$all
+||rafflesrd.com^$all
 ||raif-dopomoga.com^$all
 ||raif.24get.site^$all
 ||raif.cake-payment.me^$all

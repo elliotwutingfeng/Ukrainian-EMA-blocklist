@@ -316,6 +316,7 @@ doppolch.site
 dostav.do-orolx.workers.dev
 dostavaollp.shop
 dostavka-fast.secure-pau.workers.dev
+dostawkaolx.kogama6864.workers.dev
 dram-satyr.fun
 dram-teatr.art
 dram-teatr.fun
@@ -490,6 +491,7 @@ helpmoneyua.za.com
 helpspeoples.nicepage.io
 helpukraine.direct
 helpukraine24na7.tilda.ws
+heodapo-helpiaud.fun
 hermesfx.io
 hipx.pro
 hit-info.org
@@ -1278,6 +1280,7 @@ rabota-poshta.eu
 rabota-web.xyz
 rabota1.xyz
 radixgroup.ru
+rafflesrd.com
 raif-dopomoga.com
 raif.24get.site
 raif.cake-payment.me
