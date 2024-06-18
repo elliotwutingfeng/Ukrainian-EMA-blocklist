@@ -507,6 +507,7 @@
 ||ibank-atcib.com^$all
 ||ibox-city.com.ua^$all
 ||iboyun.net^$all
+||id-gov-dopomogaoon.one^$all
 ||idtnf.site^$all
 ||igenius.ga^$all
 ||igoog.ru^$all
@@ -1493,6 +1494,7 @@
 ||trust-group.pro^$all
 ||ua-cash.com^$all
 ||ua-compenses.top^$all
+||ua-dopomoga.store^$all
 ||ua-gos.top^$all
 ||ua-privat24.pro^$all
 ||ua-teatrestrad.fun^$all
