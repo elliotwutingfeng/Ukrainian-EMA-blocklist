@@ -278,7 +278,9 @@
 ||csd.c787888.com^$all
 ||cybe-gos.top^$all
 ||da-tesi.com^$all
+||dancebtas.top^$all
 ||dancekupetsky.site^$all
+||dancevolw.top^$all
 ||dav-workers.superbagag.workers.dev^$all
 ||dayprices.shop^$all
 ||dazzlingcortex.com^$all
@@ -373,6 +375,7 @@
 ||ev-gos.top^$all
 ||eva-promo.top^$all
 ||ever-opros.top^$all
+||evervoter.top^$all
 ||evi-gos.top^$all
 ||ew-gos.top^$all
 ||ex-gos.top^$all
@@ -450,6 +453,7 @@
 ||goldenstanley.com^$all
 ||goldtrade2019.me^$all
 ||goldtransfer.com.ua^$all
+||golos-baletki.online^$all
 ||gomobi.in.ua^$all
 ||good-opros.top^$all
 ||good.ua-tovary.info^$all
@@ -1631,6 +1635,7 @@
 ||www.auto-formula.com^$all
 ||www.auto-pay.com.ua^$all
 ||www.auto-prestige.info^$all
+||www.baletki-golos.online^$all
 ||www.bellpay.in.ua^$all
 ||www.beslctnamga.online^$all
 ||www.big-partner.kh.ua^$all
@@ -1644,6 +1649,7 @@
 ||www.coffeeland.biz.ua^$all
 ||www.coffeerabota.online^$all
 ||www.corpi-gos.top^$all
+||www.coverx.store^$all
 ||www.crvearn.com^$all
 ||www.currency-ukraine.com^$all
 ||www.dopomoga-ua.online^$all
