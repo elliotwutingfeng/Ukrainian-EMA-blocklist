@@ -1610,6 +1610,7 @@
 ||web.seyrosnpaynhe.website^$all
 ||web.tircheconftregepof.tk^$all
 ||web.weiworlmartoreave.tk^$all
+||web.yavuzsari.com^$all
 ||webinfom.ru^$all
 ||weekpaidlife.top^$all
 ||wegroup.com.ua^$all
