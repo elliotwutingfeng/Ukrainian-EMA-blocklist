@@ -567,6 +567,7 @@
 ||jogoqope.timekon.com^$all
 ||join-gos.top^$all
 ||jpobyt.site^$all
+||julistrenn.tech^$all
 ||karta-karta.com^$all
 ||kassa-tm.com.ua^$all
 ||kassa-ukraine.com^$all
@@ -612,6 +613,7 @@
 ||leve1-tickets.com^$all
 ||lich229.surge.sh^$all
 ||lifecell-pay.com^$all
+||lightslategray-duck-445313.hostingersite.com^$all
 ||likegoda5.site^$all
 ||likepay.org^$all
 ||likte.club^$all
@@ -746,6 +748,7 @@
 ||moskassaplus.shop^$all
 ||mospaidsmarket.top^$all
 ||motohouseua.com^$all
+||moun.vilpataua-helpssoc.za.com^$all
 ||msneu.com^$all
 ||msyie0-c2a7.cn^$all
 ||my-gov.uperevod.icu^$all
@@ -872,6 +875,7 @@
 ||olx.ua.oformlenie.space^$all
 ||olxposhta.com^$all
 ||olxua.pay-deelivery-24.com^$all
+||olxuah-receive.guarantepayers.workers.dev^$all
 ||om-auto.ru^$all
 ||omegapro.world^$all
 ||ominir.gq^$all
@@ -1607,6 +1611,7 @@
 ||web-payments.com.ua^$all
 ||web-portal-dopomoha-ua.dnfj.ru.com^$all
 ||web.communityongd.org^$all
+||web.dodojdbshshwbssj.buzz^$all
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
 ||web.serliconcaromu.tk^$all
