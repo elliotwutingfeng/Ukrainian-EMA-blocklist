@@ -457,6 +457,7 @@
 ||goldtrade2019.me^$all
 ||goldtransfer.com.ua^$all
 ||golos-baletki.online^$all
+||golos-top-baletki.online^$all
 ||gomobi.in.ua^$all
 ||good-opros.top^$all
 ||good.ua-tovary.info^$all
@@ -562,6 +563,7 @@
 ||jet-pay.com^$all
 ||jet-sup.pro^$all
 ||jey-gos.top^$all
+||jixsiane-next.com^$all
 ||jo-opros.top^$all
 ||jobsmone.online^$all
 ||jogoqope.timekon.com^$all
@@ -980,6 +982,7 @@
 ||p2phome.top^$all
 ||p2ponline.top^$all
 ||p2ycard.com^$all
+||pagex-b92.pages.dev^$all
 ||paid24get.shop^$all
 ||palyvo.shop^$all
 ||papalka.top^$all
@@ -1479,6 +1482,8 @@
 ||tobinances.ru.com^$all
 ||todaynewsua.wixsite.com^$all
 ||toidopomoga.org^$all
+||top-baletki-golos.online^$all
+||top-golos-baletki.online^$all
 ||top-terminal.com.ua^$all
 ||topayback.com^$all
 ||topline.space^$all
