@@ -752,6 +752,7 @@
 ||motohouseua.com^$all
 ||moun.vilpataua-helpssoc.za.com^$all
 ||msneu.com^$all
+||mssg.me^$all
 ||msyie0-c2a7.cn^$all
 ||my-gov.uperevod.icu^$all
 ||my-gov.uplata.cyou^$all
@@ -1784,6 +1785,7 @@
 ||www.your-payment.info^$all
 ||www.zhuk.store^$all
 ||www1u.top^$all
+||wwwescrowbox.info^$all
 ||x.thoroughintrinsically.cn^$all
 ||x7-mikepike.buzz^$all
 ||xiaomi-store.com.ua^$all
