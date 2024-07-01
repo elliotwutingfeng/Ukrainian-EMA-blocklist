@@ -242,6 +242,7 @@
 ||chekmobile.in.ua^$all
 ||chis-gos.top^$all
 ||christmasfix.com^$all
+||cinemagalaxy.top^$all
 ||city-gold.info^$all
 ||citycash-ukr.com^$all
 ||citypay24.com.ua^$all
