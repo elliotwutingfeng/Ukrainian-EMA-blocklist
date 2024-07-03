@@ -282,6 +282,7 @@
 ||cutuao-ukrlaak.xyz^
 ||cybe-gos.top^
 ||da-tesi.com^
+||dance-kids-golos.online^
 ||dancebtas.top^
 ||dancekupetsky.site^
 ||dancevolw.top^
@@ -459,6 +460,7 @@
 ||goldtransfer.com.ua^
 ||golos-baletki.online^
 ||golos-top-baletki.online^
+||golosbest.com^
 ||gomobi.in.ua^
 ||good-opros.top^
 ||good.ua-tovary.info^
@@ -493,6 +495,7 @@
 ||help-fynancegov.com^
 ||help-gos.top^
 ||help-ukrain.xyz^
+||helpfor-uabanksukr.pages.dev^
 ||helpmoneyua.za.com^
 ||helpspeoples.nicepage.io^
 ||helpukraine.direct^
@@ -604,6 +607,7 @@
 ||kredovikmoney.tech^
 ||kuhnyadom.com^
 ||kuplbllet.site^
+||kyiv-tanci.online^
 ||kyivstarbezlim.com^
 ||kypogatu.motends.com^
 ||lably.qurse.workers.dev^
@@ -613,6 +617,7 @@
 ||lesopilka-group.com.ua^
 ||letiletiavia.online^
 ||letsgoua.com^
+||letuahelperbanks.pages.dev^
 ||leve1-tickets.com^
 ||lich229.surge.sh^
 ||lifecell-pay.com^
@@ -1481,6 +1486,7 @@
 ||thoughtfulwear.top^
 ||time24pay.online^
 ||timebox-ua.com^
+||tmdbtheater.com^
 ||tobinances.ru.com^
 ||todaynewsua.wixsite.com^
 ||toidopomoga.org^
@@ -1526,11 +1532,13 @@
 ||ua3.jonnyashcroft.com^
 ||uaabey.vip^
 ||uacmplnk.xyz^
+||uaderhelp-ukr.pages.dev^
 ||uaekcrprt.site^
 ||uamovieonlinejobs.com^
 ||uapay.escrowbox.website^
 ||uapdvkomp.yolasite.com^
 ||uappl.org^
+||uapubl-helpinukr.pages.dev^
 ||uashop-goodstore.wixsite.com^
 ||ubi-investments.com^
 ||ubi.investments^
@@ -1569,6 +1577,7 @@
 ||ukrsib.perekaz24.website^
 ||ukrsim.com^
 ||ukrticket.fun^
+||ukwener.site^
 ||ulmoney.site^
 ||ultra-pay.com.ua^
 ||uni-gos.top^
