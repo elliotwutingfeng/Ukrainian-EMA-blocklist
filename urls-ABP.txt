@@ -1626,6 +1626,7 @@
 ||wdcfsfsfgbs.com^
 ||web-payments.com.ua^
 ||web-portal-dopomoha-ua.dnfj.ru.com^
+||web.ap3si.org^
 ||web.communityongd.org^
 ||web.dodojdbshshwbssj.buzz^
 ||web.eebankosdoxla.site^
