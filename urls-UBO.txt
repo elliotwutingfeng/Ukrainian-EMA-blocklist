@@ -125,6 +125,7 @@
 ||bankallianceua.com^$all
 ||bankionline.online^$all
 ||barlingmas.com^$all
+||barte.foqre.workers.dev^$all
 ||bassein-ukraine.com^$all
 ||bbaja.cn^$all
 ||beads-needs.com^$all
@@ -583,6 +584,7 @@
 ||kharkov.afisha-theatre.info^$all
 ||kharkov.theatres-afisha.com^$all
 ||kia-kiev.info^$all
+||kids-balet-golos.kyiv.ua^$all
 ||kiev-favorit.com^$all
 ||kievfinance-ukr.com^$all
 ||kievstar.online^$all
@@ -1083,6 +1085,7 @@
 ||pochta1.com^$all
 ||pochta1.eu^$all
 ||pochtant.eu^$all
+||poeukrago.pages.dev^$all
 ||poirtmone.in.ua^$all
 ||pokecoince-go.com^$all
 ||poldenkirbusiness.dunthemonster9121.workers.dev^$all
@@ -1534,7 +1537,9 @@
 ||uacmplnk.xyz^$all
 ||uaderhelp-ukr.pages.dev^$all
 ||uaekcrprt.site^$all
+||uahelp-documbnk.pages.dev^$all
 ||uamovieonlinejobs.com^$all
+||uanexthelp.pages.dev^$all
 ||uapay.escrowbox.website^$all
 ||uapdvkomp.yolasite.com^$all
 ||uappl.org^$all

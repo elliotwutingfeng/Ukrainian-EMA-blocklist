@@ -125,6 +125,7 @@ bank-alliance.com
 bankallianceua.com
 bankionline.online
 barlingmas.com
+barte.foqre.workers.dev
 bassein-ukraine.com
 bbaja.cn
 beads-needs.com
@@ -583,6 +584,7 @@ kel-gos.top
 kharkov.afisha-theatre.info
 kharkov.theatres-afisha.com
 kia-kiev.info
+kids-balet-golos.kyiv.ua
 kiev-favorit.com
 kievfinance-ukr.com
 kievstar.online
@@ -1083,6 +1085,7 @@ pochta.co.ua
 pochta1.com
 pochta1.eu
 pochtant.eu
+poeukrago.pages.dev
 poirtmone.in.ua
 pokecoince-go.com
 poldenkirbusiness.dunthemonster9121.workers.dev
@@ -1534,7 +1537,9 @@ uaabey.vip
 uacmplnk.xyz
 uaderhelp-ukr.pages.dev
 uaekcrprt.site
+uahelp-documbnk.pages.dev
 uamovieonlinejobs.com
+uanexthelp.pages.dev
 uapay.escrowbox.website
 uapdvkomp.yolasite.com
 uappl.org
