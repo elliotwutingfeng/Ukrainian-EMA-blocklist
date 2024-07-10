@@ -87,6 +87,7 @@
 ||apps-opros.top^$all
 ||appscompondflnanse.site^$all
 ||arbitratrafik.blogspot.com^$all
+||argentinaviplatafunpay.click^$all
 ||arlean.com.ua^$all
 ||array-opros.top^$all
 ||arri-pay.top^$all
@@ -1636,6 +1637,7 @@
 ||web.dodojdbshshwbssj.buzz^$all
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
+||web.naves21worcdel.buzz^$all
 ||web.serliconcaromu.tk^$all
 ||web.seyrosnpaynhe.website^$all
 ||web.tircheconftregepof.tk^$all
@@ -1824,6 +1826,7 @@
 ||zanimalo.com.ua^$all
 ||zaplatinow.in.ua^$all
 ||zaplatizamob.com^$all
+||zarydunaperemogu.click^$all
 ||ze-dopomoga.me^$all
 ||zemalua.ru^$all
 ||zepuwykom.xyz^$all
