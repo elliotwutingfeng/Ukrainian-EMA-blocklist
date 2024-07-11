@@ -322,6 +322,7 @@
 ||doppolch.site^$all
 ||dostav.do-orolx.workers.dev^$all
 ||dostavaollp.shop^$all
+||dostavka-0lx.kefexat294.workers.dev^$all
 ||dostavka-fast.secure-pau.workers.dev^$all
 ||dostawkaolx.kogama6864.workers.dev^$all
 ||dram-satyr.fun^$all
@@ -1066,7 +1067,9 @@
 ||perevodstandard.tech^$all
 ||perewadka.top^$all
 ||pestrio.site^$all
+||petityan-presidenta.kyiv.ua^$all
 ||phonepay.biz.ua^$all
+||picture.risunok-vesna-fest.net.ru^$all
 ||pillapt.com^$all
 ||pirtmone.info^$all
 ||pkeedo.co.ua^$all
@@ -1473,6 +1476,7 @@
 ||teh24.com.ua^$all
 ||tehniksplus.com.ua^$all
 ||tehnotop.net.ua^$all
+||ter.jakubowskj5000govua.shop^$all
 ||terminal-box.com.ua^$all
 ||terminal-classic.com^$all
 ||terminal-time.com.ua^$all
@@ -1596,6 +1600,7 @@
 ||unllotto.com^$all
 ||unlswap.site^$all
 ||unter-survey.top^$all
+||up.risuem-mir.top^$all
 ||up2phone.top^$all
 ||uplata24.com^$all
 ||uptophone.top^$all
@@ -1637,6 +1642,7 @@
 ||web.dodojdbshshwbssj.buzz^$all
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
+||web.immigrationlawyerbirmingham.com^$all
 ||web.naves21worcdel.buzz^$all
 ||web.serliconcaromu.tk^$all
 ||web.seyrosnpaynhe.website^$all
