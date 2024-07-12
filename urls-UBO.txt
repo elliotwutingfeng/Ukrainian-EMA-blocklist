@@ -469,6 +469,7 @@
 ||good.ua-tovary.info^$all
 ||goodmob.dp.ua^$all
 ||goods.transfer-e08.workers.dev^$all
+||google35dpm.bond^$all
 ||gopays.in.ua^$all
 ||gos-viplata.top^$all
 ||goturozetka.com^$all
@@ -993,6 +994,7 @@
 ||p2phome.top^$all
 ||p2ponline.top^$all
 ||p2ycard.com^$all
+||pablobelo.com^$all
 ||pagex-b92.pages.dev^$all
 ||paid24get.shop^$all
 ||palyvo.shop^$all
@@ -1543,6 +1545,7 @@
 ||uaderhelp-ukr.pages.dev^$all
 ||uaekcrprt.site^$all
 ||uahelp-documbnk.pages.dev^$all
+||ualenukrgo.pages.dev^$all
 ||uamovieonlinejobs.com^$all
 ||uanexthelp.pages.dev^$all
 ||uapay.escrowbox.website^$all
