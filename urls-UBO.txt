@@ -916,6 +916,7 @@
 ||opay365.com^$all
 ||opel-cars.info^$all
 ||open-payments.com.ua^$all
+||open.garmonia-budushego247.workers.dev^$all
 ||openkredovik.top^$all
 ||opi-gos.top^$all
 ||oplamob.in.ua^$all
