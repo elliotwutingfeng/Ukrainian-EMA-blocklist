@@ -442,6 +442,7 @@
 ||get-ua-comp.cfd^
 ||getpay-ua.com^
 ||gfc.kiev.ua^
+||gimnnastikav.site^
 ||giroskuter.net.ua^
 ||gizmosinfo.com^
 ||global-business.su^
@@ -688,6 +689,7 @@
 ||mega-surveys.top^
 ||megacourses.ru^
 ||megapopolnyan.biz.ua^
+||melltellvyplata-pomoga.xyz^
 ||mesleotelm.ru^
 ||microprices.shop^
 ||midbet.one^
@@ -1071,6 +1073,7 @@
 ||perewadka.top^
 ||pestrio.site^
 ||petityan-presidenta.kyiv.ua^
+||phlandfinder.online^
 ||phonepay.biz.ua^
 ||picture.risunok-vesna-fest.net.ru^
 ||pillapt.com^
