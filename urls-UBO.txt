@@ -858,6 +858,7 @@
 ||olimp-home.com^$all
 ||ollos.ru^$all
 ||olx-alert.com^$all
+||olx-buy.go-ga.shop^$all
 ||olx-moneytransfer.olxsecuring.workers.dev^$all
 ||olx-mymoneydefense.defmyolx.workers.dev^$all
 ||olx-pays.com^$all
@@ -1650,6 +1651,7 @@
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
 ||web.immigrationlawyerbirmingham.com^$all
+||web.metalroofinstallersnearme.com^$all
 ||web.naves21worcdel.buzz^$all
 ||web.serliconcaromu.tk^$all
 ||web.seyrosnpaynhe.website^$all
