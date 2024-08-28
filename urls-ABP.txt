@@ -829,6 +829,7 @@
 ||novaposhta-ua.recivemoney.icu^
 ||novaposhta.be^
 ||novaposhta.beautiful-pays.site^
+||novaposhta.otrimanie-pay-92a.workers.dev^
 ||novaposhta.ua-pay.space^
 ||novaposhta.ua.obyiavleniye.com^
 ||novaposta-ua-dostavka.services^
