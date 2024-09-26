@@ -333,6 +333,7 @@
 ||drama-theatre.fun^$all
 ||dramatheatrua.fun^$all
 ||draw-opros.top^$all
+||ducnl.temugm.com^$all
 ||dufafaststinen.gq^$all
 ||duiuaheki.com^$all
 ||e-dopomoga.cc^$all
