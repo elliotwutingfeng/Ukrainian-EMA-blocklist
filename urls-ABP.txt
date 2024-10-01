@@ -1559,6 +1559,7 @@
 ||uapdvkomp.yolasite.com^
 ||uappl.org^
 ||uapubl-helpinukr.pages.dev^
+||uarichguy.com^
 ||uashop-goodstore.wixsite.com^
 ||ubi-investments.com^
 ||ubi.investments^
