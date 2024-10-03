@@ -176,6 +176,7 @@
 ||bow-gos.top^
 ||box.inf.ua^
 ||brainintelligencetraining.com^
+||brand-shoes.com.ua^
 ||breepy.gumloe.workers.dev^
 ||brokcomp.com.ua^
 ||brovistave.org^
