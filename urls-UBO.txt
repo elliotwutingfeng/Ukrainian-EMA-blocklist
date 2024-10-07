@@ -121,6 +121,7 @@
 ||babycar.od.ua^$all
 ||back.multistream.space^$all
 ||badge-gos.top^$all
+||bagtop.co.ua^$all
 ||balantins.com.ua^$all
 ||bank-alliance.com^$all
 ||bankallianceua.com^$all
@@ -363,6 +364,7 @@
 ||elso-gos.top^$all
 ||elspirgeltmens.gq^$all
 ||ema-group.info^$all
+||emtehno.com^$all
 ||enow-survey.top^$all
 ||epaidslife.shop^$all
 ||epicentrk-bonus.online^$all
@@ -559,6 +561,7 @@
 ||ipayua.com^$all
 ||iprod.kz^$all
 ||iqos-heets.com.ua^$all
+||irimatimoney.tech^$all
 ||isend2card.com^$all
 ||isnuman.com^$all
 ||it-magg.com^$all
