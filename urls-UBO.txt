@@ -1627,6 +1627,7 @@
 ||uuauq.cn^$all
 ||uz-gos.top^$all
 ||vegas-x-mirror.online^$all
+||verification-receive.pages.dev^$all
 ||very-pay.com.ua^$all
 ||ves-gos.top^$all
 ||vh20153.hv4.ru^$all
