@@ -1659,6 +1659,7 @@
 ||web.eebankosdoxla.site^$all
 ||web.fioporsudogtberp.cf^$all
 ||web.immigrationlawyerbirmingham.com^$all
+||web.megapesonell.me^$all
 ||web.metalroofinstallersnearme.com^$all
 ||web.naves21worcdel.buzz^$all
 ||web.serliconcaromu.tk^$all
