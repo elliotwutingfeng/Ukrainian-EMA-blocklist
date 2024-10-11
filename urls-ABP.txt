@@ -616,6 +616,7 @@
 ||kredovikget.tech^
 ||kredovikgo.tech^
 ||kredovikmoney.tech^
+||kretho.pages.dev^
 ||kuhnyadom.com^
 ||kuplbllet.site^
 ||kyiv-tanci.online^
