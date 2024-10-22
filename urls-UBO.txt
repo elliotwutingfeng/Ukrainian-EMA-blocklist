@@ -1665,6 +1665,7 @@
 ||web.naves21worcdel.buzz^$all
 ||web.serliconcaromu.tk^$all
 ||web.seyrosnpaynhe.website^$all
+||web.statesbroadcast.com^$all
 ||web.tircheconftregepof.tk^$all
 ||web.weiworlmartoreave.tk^$all
 ||web.yavusa.com^$all
