@@ -995,7 +995,9 @@ osschad.secure2dpay.store
 otp.no-pay.me
 otp.pay-ukraine.com
 otp.pcs-order.me
+otrimannnyaaa-splat.pages.dev
 otrumunya-dostwunya.insurouche.workers.dev
+otrymaty-pidtrymku.pages.dev
 ovs-gos.top
 ozero-ua.com
 p-24bezpeka.su
