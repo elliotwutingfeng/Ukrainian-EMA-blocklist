@@ -584,6 +584,7 @@
 ||join-gos.top^
 ||jpobyt.site^
 ||julistrenn.tech^
+||kachorovska.top^
 ||karta-karta.com^
 ||kassa-tm.com.ua^
 ||kassa-ukraine.com^
@@ -1759,6 +1760,7 @@
 ||www.lin-bud.com^
 ||www.lovim.shop^
 ||www.luckysend.org^
+||www.maisonscn.top^
 ||www.mani-blog.ru^
 ||www.marvelouseuphoria.com^
 ||www.master-pay.com.ua^
