@@ -462,6 +462,7 @@
 ||go2ere.com^$all
 ||goeth.io^$all
 ||gojisumoc.xyz^$all
+||gokacho.top^$all
 ||gold-city-company.com^$all
 ||goldenstanley.com^$all
 ||goldtrade2019.me^$all
