@@ -1088,6 +1088,7 @@
 ||phlandfinder.online^$all
 ||phonepay.biz.ua^$all
 ||picture.risunok-vesna-fest.net.ru^$all
+||pidtrymka-prezydenta.pages.dev^$all
 ||pillapt.com^$all
 ||pirtmone.info^$all
 ||pkeedo.co.ua^$all
