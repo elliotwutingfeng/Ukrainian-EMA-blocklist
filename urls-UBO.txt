@@ -1603,6 +1603,7 @@
 ||ukrhelp.org.ua^$all
 ||ukrmall.com.ua^$all
 ||ukrmob.com.ua^$all
+||ukrn.eleosrein.com^$all
 ||ukrsib.ads-pid.me^$all
 ||ukrsib.cake-payment.me^$all
 ||ukrsib.pcs-order.me^$all
@@ -1808,6 +1809,7 @@
 ||www.rabotaweb.online^$all
 ||www.rabotaysnami.com^$all
 ||www.rozatka.ru^$all
+||www.shopsaguaro.club^$all
 ||www.skyauto.com.ua^$all
 ||www.slimpay.com.ua^$all
 ||www.sneakersadi2018.com^$all
