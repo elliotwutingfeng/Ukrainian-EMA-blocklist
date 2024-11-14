@@ -91,6 +91,7 @@
 ||arlean.com.ua^$all
 ||array-opros.top^$all
 ||arri-pay.top^$all
+||asdopomogatyren.online^$all
 ||asia.top-blogs.xyz^$all
 ||ask-opros.top^$all
 ||atb-bonus.com^$all
@@ -793,6 +794,7 @@
 ||nalichkago.online^$all
 ||nalichkapay.online^$all
 ||namemo.ucraft.site^$all
+||nanodopomogaja.online^$all
 ||nanolook.com^$all
 ||nek0samurai.github.io^$all
 ||nekly.henly.workers.dev^$all
