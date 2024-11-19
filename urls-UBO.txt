@@ -139,6 +139,7 @@
 ||bezpeka-online-24.su^$all
 ||bezpekaua.info^$all
 ||bf4f5009.4845c94a05a102c2a2e8e339.workers.dev^$all
+||bgappl.shop^$all
 ||bias-agency.com^$all
 ||big-uah.top^$all
 ||bilet.space^$all
@@ -1664,6 +1665,7 @@
 ||web-payments.com.ua^$all
 ||web-portal-dopomoha-ua.dnfj.ru.com^$all
 ||web.ap3si.org^$all
+||web.byte-kahueii-buoness.top^$all
 ||web.communityongd.org^$all
 ||web.dodojdbshshwbssj.buzz^$all
 ||web.eebankosdoxla.site^$all
