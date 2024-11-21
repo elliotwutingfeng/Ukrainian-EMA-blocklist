@@ -475,6 +475,7 @@
 ||gomobi.in.ua^
 ||good-opros.top^
 ||good.ua-tovary.info^
+||gooddopomohali.online^
 ||goodmob.dp.ua^
 ||goods.transfer-e08.workers.dev^
 ||google35dpm.bond^
@@ -587,6 +588,7 @@
 ||join-gos.top^
 ||jpobyt.site^
 ||julistrenn.tech^
+||jumled.pages.dev^
 ||kachorovska.top^
 ||karta-karta.com^
 ||kassa-tm.com.ua^
@@ -1425,6 +1427,7 @@
 ||sistem-pay.com.ua^
 ||sites.google.com^
 ||skartyfree.top^
+||sketchspace.creativelab.buzz^
 ||skipass.bukovel.store^
 ||skipass.top^
 ||skirtminiature.top^
@@ -1873,3 +1876,4 @@
 ||zmobi.in.ua^
 ||zoochampion.com^
 ||zpb.sale^
+||zuviuslifescience.com^
