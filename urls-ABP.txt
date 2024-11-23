@@ -1457,6 +1457,7 @@
 ||standart-pay.com.ua^
 ||star-rates-award.brandj.xyz^
 ||starbox-terminal.com.ua^
+||starplivatoon.online^
 ||start-auto.kiev.ua^
 ||startsmart.com.ua^
 ||stecmcommunnity.com^
@@ -1877,3 +1878,4 @@
 ||zoochampion.com^
 ||zpb.sale^
 ||zuviuslifescience.com^
+||zvezdnoe-golosovaniep-pover-v-detej.kyiv.ua^
