@@ -1503,6 +1503,7 @@
 ||teh24.com.ua^$all
 ||tehniksplus.com.ua^$all
 ||tehnotop.net.ua^$all
+||telestore.website^$all
 ||ter.jakubowskj5000govua.shop^$all
 ||terminal-box.com.ua^$all
 ||terminal-classic.com^$all
