@@ -1851,6 +1851,7 @@
 ||x.thoroughintrinsically.cn^$all
 ||x7-mikepike.buzz^$all
 ||xiaomi-store.com.ua^$all
+||xibes.pages.dev^$all
 ||xingjxcgbdylbj.store^$all
 ||xiongmao002.com^$all
 ||xrates.ru^$all
