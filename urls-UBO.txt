@@ -62,6 +62,7 @@
 ||aidogov.site^$all
 ||aio-product.net^$all
 ||akvapark.site^$all
+||alawwalcleaning.com^$all
 ||alfa-gos.top^$all
 ||alfabankua.tilda.ws^$all
 ||alfacard.tilda.ws^$all
@@ -119,6 +120,7 @@
 ||awsvip.cc^$all
 ||aykks.top^$all
 ||azimutheshop.com^$all
+||babasantji.com^$all
 ||babycar.od.ua^$all
 ||back.multistream.space^$all
 ||badge-gos.top^$all
@@ -317,6 +319,7 @@
 ||dolidka.top^$all
 ||domopoga-ua.nopersonexty.online^$all
 ||dompaidscentr.shop^$all
+||dompgaotrymkazavka.life^$all
 ||dop-sotsialyna.com^$all
 ||dopomoga-2024-ua.legiticstartup.com^$all
 ||dopomoga-epay.site^$all
@@ -515,6 +518,7 @@
 ||helpukraine24na7.tilda.ws^$all
 ||heodapo-helpiaud.fun^$all
 ||hermesfx.io^$all
+||hexaditesolutions.com^$all
 ||hipx.pro^$all
 ||hit-info.org^$all
 ||hobbi-ua.com^$all
@@ -523,6 +527,7 @@
 ||homearfes.com^$all
 ||homeperevotday.com^$all
 ||hometwo.top^$all
+||horizonwave.cfd^$all
 ||hose-opros.top^$all
 ||hover-trade.ru^$all
 ||hp-gos.top^$all
@@ -799,6 +804,7 @@
 ||namemo.ucraft.site^$all
 ||nanodopomogaja.online^$all
 ||nanolook.com^$all
+||nebuladynamics.cfd^$all
 ||nek0samurai.github.io^$all
 ||nekly.henly.workers.dev^$all
 ||neobank.pcs-order.me^$all
@@ -1639,6 +1645,7 @@
 ||usasklad.com.ua^$all
 ||usavlogcmpntrade2019.top^$all
 ||usdtrader.com^$all
+||ushopexpress.com^$all
 ||uu-quest.xyz^$all
 ||uuauq.cn^$all
 ||uz-gos.top^$all
@@ -1872,6 +1879,7 @@
 ||zaplatinow.in.ua^$all
 ||zaplatizamob.com^$all
 ||zarydunaperemogu.click^$all
+||zavkaotrymkapodannya.life^$all
 ||ze-dopomoga.me^$all
 ||zemalua.ru^$all
 ||zepuwykom.xyz^$all
@@ -1881,3 +1889,4 @@
 ||zpb.sale^$all
 ||zuviuslifescience.com^$all
 ||zvezdnoe-golosovaniep-pover-v-detej.kyiv.ua^$all
+||zyavkanaotrymkadompa.life^$all
