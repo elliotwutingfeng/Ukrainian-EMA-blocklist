@@ -1649,6 +1649,7 @@
 ||uu-quest.xyz^$all
 ||uuauq.cn^$all
 ||uz-gos.top^$all
+||varaagamvipcommunity.com^$all
 ||vegas-x-mirror.online^$all
 ||verification-receive.pages.dev^$all
 ||very-pay.com.ua^$all
