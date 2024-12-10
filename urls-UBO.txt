@@ -295,6 +295,7 @@
 ||dancekupetsky.site^$all
 ||dancevolw.top^$all
 ||dav-workers.superbagag.workers.dev^$all
+||davkazavkaotrymka.life^$all
 ||dayprices.shop^$all
 ||dazzlingcortex.com^$all
 ||de-gos.top^$all
@@ -615,6 +616,7 @@
 ||klespo.site^$all
 ||klisp-o.site^$all
 ||ko-gos.top^$all
+||koliq.world^$all
 ||koqos.store^$all
 ||krasa.site^$all
 ||kreditavtomat.jimdo.com^$all
