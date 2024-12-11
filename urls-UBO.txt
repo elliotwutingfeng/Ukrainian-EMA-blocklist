@@ -1534,6 +1534,7 @@
 ||tobinances.ru.com^$all
 ||todaynewsua.wixsite.com^$all
 ||toidopomoga.org^$all
+||tomdpmgavsimoox.xyz^$all
 ||top-baletki-golos.online^$all
 ||top-golos-baletki.online^$all
 ||top-terminal.com.ua^$all
