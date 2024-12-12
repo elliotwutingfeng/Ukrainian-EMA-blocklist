@@ -1288,6 +1288,7 @@
 ||pro.vipmoney.xyz^$all
 ||proekt.inovasy.info^$all
 ||profprices.shop^$all
+||project11201421.tilda.ws^$all
 ||prom-payer.store^$all
 ||prom.ua.hobbi-ua.com^$all
 ||prom.ua.rybachok.online^$all
