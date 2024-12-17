@@ -857,6 +857,7 @@
 ||novo-billing.info^
 ||novok.com.ua^
 ||npdosttaavockkaa.space^
+||ns.bifkjrgys.buzz^
 ||oacisapp.top^
 ||oacisaps.top^
 ||oacisapt.top^
@@ -1087,6 +1088,7 @@
 ||pennytransfer.online^
 ||people-pay.info^
 ||perekaz24privat.com^
+||perekazgroshiv-approving.pages.dev^
 ||perekazi-privat24.online^
 ||perekazprivat.com^
 ||perevadka.top^
@@ -1679,6 +1681,7 @@
 ||vyplataua.com^
 ||wbtheaterchain.vip^
 ||wdcfsfsfgbs.com^
+||wealthinnovations.cfd^
 ||web-payments.com.ua^
 ||web-portal-dopomoha-ua.dnfj.ru.com^
 ||web.ap3si.org^
