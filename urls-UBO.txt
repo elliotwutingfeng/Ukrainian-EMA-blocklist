@@ -964,6 +964,7 @@
 ||opros247.party^$all
 ||oprosgrand2019.space^$all
 ||optimal-payments.com^$all
+||optpokup-24zel.pages.dev^$all
 ||orange-moto.com.ua^$all
 ||orangepay-ukr.info^$all
 ||orbita-ukr.com^$all
