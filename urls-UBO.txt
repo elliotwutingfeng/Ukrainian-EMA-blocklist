@@ -1532,6 +1532,7 @@
 ||theatresatir.fun^$all
 ||thefiniko.com^$all
 ||thoughtfulwear.top^$all
+||time-helpers.store^$all
 ||time24pay.online^$all
 ||timebox-ua.com^$all
 ||tmdbtheater.com^$all
