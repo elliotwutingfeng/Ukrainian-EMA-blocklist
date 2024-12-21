@@ -938,6 +938,7 @@
 ||onlinie-oschadbank24.f6x.site^$all
 ||onlinis24-ukrsibbanci.uks6.site^$all
 ||onlins24-oschadbank.osv6.site^$all
+||onlyfans.gd^$all
 ||ootrimyaniuyyanaw.site^$all
 ||opaddesmusszamky.gq^$all
 ||opay365.com^$all
