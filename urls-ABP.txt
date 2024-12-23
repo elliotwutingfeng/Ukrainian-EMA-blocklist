@@ -500,6 +500,7 @@
 ||gt770.com^
 ||gtradex.net^
 ||gulf-can.com^
+||h5.khreschatyk.top^
 ||hacknex.online^
 ||handmadebeads.online^
 ||handsomelucky.info^
@@ -1451,6 +1452,7 @@
 ||smart-pay.com.ua^
 ||smartlead.com.ua^
 ||smartsup.pro^
+||smartventures.cfd^
 ||snasty.shop^
 ||snp-broker.io^
 ||social-pidtrumka1.com^
