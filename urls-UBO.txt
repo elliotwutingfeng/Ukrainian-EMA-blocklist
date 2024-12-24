@@ -921,6 +921,7 @@
 ||omegapro.world^$all
 ||ominir.gq^$all
 ||omp-gos.top^$all
+||oneaccs.store^$all
 ||onfey.ru^$all
 ||onlin24-ukrsibbanck.uks6.site^$all
 ||online-alfabank.com^$all
@@ -948,6 +949,7 @@
 ||open.garmonia-budushego247.workers.dev^$all
 ||openkredovik.top^$all
 ||opi-gos.top^$all
+||opipai.pages.dev^$all
 ||oplamob.in.ua^$all
 ||oplatagos.in.ua^$all
 ||oplatamob.biz.ua^$all
@@ -1015,6 +1017,7 @@
 ||otp.no-pay.me^$all
 ||otp.pay-ukraine.com^$all
 ||otp.pcs-order.me^$all
+||otrimanije-koshtei-deleveri-pidrimka.pages.dev^$all
 ||otrimannnyaaa-splat.pages.dev^$all
 ||otrumunya-dostwunya.insurouche.workers.dev^$all
 ||otrymaty-pidtrymku.pages.dev^$all
