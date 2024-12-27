@@ -1747,6 +1747,7 @@
 ||www.box-service.com.ua^$all
 ||www.buylanmobi.in.ua^$all
 ||www.cash-you.info^$all
+||www.cauvocapital.com^$all
 ||www.center-pay.com.ua^$all
 ||www.centr-plaza.com.ua^$all
 ||www.citylife-ua.com^$all
