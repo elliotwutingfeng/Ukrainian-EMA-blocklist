@@ -1895,6 +1895,7 @@
 ||zanimalo.com.ua^$all
 ||zaplatinow.in.ua^$all
 ||zaplatizamob.com^$all
+||zarakhuvannya13200.com^$all
 ||zarydunaperemogu.click^$all
 ||zavkaotrymkapodannya.life^$all
 ||ze-dopomoga.me^$all
