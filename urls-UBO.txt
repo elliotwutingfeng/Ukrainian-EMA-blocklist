@@ -972,6 +972,7 @@
 ||orange-moto.com.ua^$all
 ||orangepay-ukr.info^$all
 ||orbita-ukr.com^$all
+||orderproxe-olkpostua.pages.dev^$all
 ||originalsalle.online^$all
 ||oschad.3dss-pays.info^$all
 ||oschad.cake-payment.me^$all
