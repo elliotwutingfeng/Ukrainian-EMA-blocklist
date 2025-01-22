@@ -63,6 +63,7 @@
 ||aio-product.net^$all
 ||akvapark.site^$all
 ||alawwalcleaning.com^$all
+||alenso-topran-tupe.cam^$all
 ||alfa-gos.top^$all
 ||alfabankua.tilda.ws^$all
 ||alfacard.tilda.ws^$all
