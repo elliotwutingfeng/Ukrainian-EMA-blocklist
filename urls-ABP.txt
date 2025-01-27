@@ -568,6 +568,7 @@
 ||investmobile-ua.com^
 ||investmonolitbank.ru^
 ||iop-opros.top^
+||ipay-bills.com^
 ||ipay.in.ua^
 ||ipay24.site^
 ||ipayua.com^
