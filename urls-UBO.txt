@@ -598,6 +598,7 @@
 ||jpobyt.site^$all
 ||julistrenn.tech^$all
 ||jumled.pages.dev^$all
+||jysk-de.com^$all
 ||kachorovska.top^$all
 ||karta-karta.com^$all
 ||kassa-tm.com.ua^$all
