@@ -1698,6 +1698,7 @@
 ||web-payments.com.ua^$all
 ||web-portal-dopomoha-ua.dnfj.ru.com^$all
 ||web.ap3si.org^$all
+||web.buckheadlawns.com^$all
 ||web.byte-kahueii-buoness.top^$all
 ||web.communityongd.org^$all
 ||web.dodojdbshshwbssj.buzz^$all
