@@ -637,6 +637,7 @@ kretho.pages.dev
 kuhnyadom.com
 kuplbllet.site
 kyiv-tanci.online
+kyivstar.mirfilm.net
 kyivstarbezlim.com
 kypogatu.motends.com
 lably.qurse.workers.dev
@@ -846,6 +847,7 @@ nextkasaexpert.shop
 nextpayments.org.ru
 nexxt.pw
 noaf.dostawka.workers.dev
+nosteweset.pages.dev
 nova-pay.net
 novapay-ua.com
 novapay.lijjl.shop

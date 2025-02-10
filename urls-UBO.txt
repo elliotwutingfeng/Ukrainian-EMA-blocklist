@@ -637,6 +637,7 @@
 ||kuhnyadom.com^$all
 ||kuplbllet.site^$all
 ||kyiv-tanci.online^$all
+||kyivstar.mirfilm.net^$all
 ||kyivstarbezlim.com^$all
 ||kypogatu.motends.com^$all
 ||lably.qurse.workers.dev^$all
@@ -846,6 +847,7 @@
 ||nextpayments.org.ru^$all
 ||nexxt.pw^$all
 ||noaf.dostawka.workers.dev^$all
+||nosteweset.pages.dev^$all
 ||nova-pay.net^$all
 ||novapay-ua.com^$all
 ||novapay.lijjl.shop^$all
