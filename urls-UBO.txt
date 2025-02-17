@@ -849,6 +849,7 @@
 ||noaf.dostawka.workers.dev^$all
 ||nosteweset.pages.dev^$all
 ||nova-pay.net^$all
+||nova-safe-trade.np.shopping^$all
 ||novapay-ua.com^$all
 ||novapay.lijjl.shop^$all
 ||novaposhta-pay.live^$all
@@ -1878,6 +1879,7 @@
 ||www.yooour-apple.in.ua^$all
 ||www.your-payment.info^$all
 ||www.zhuk.store^$all
+||www.znetfbth.com^$all
 ||www1u.top^$all
 ||wwwescrowbox.info^$all
 ||x.thoroughintrinsically.cn^$all
