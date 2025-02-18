@@ -849,7 +849,6 @@
 ||noaf.dostawka.workers.dev^
 ||nosteweset.pages.dev^
 ||nova-pay.net^
-||nova-safe-trade.np.shopping^
 ||novapay-ua.com^
 ||novapay.lijjl.shop^
 ||novaposhta-pay.live^
