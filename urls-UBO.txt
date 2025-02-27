@@ -160,6 +160,7 @@
 ||blago-tovar.com.ua^$all
 ||blago-tovar.net.ua^$all
 ||blago.lutsk.ua^$all
+||blaze.macejkovic.my^$all
 ||blic-opros.top^$all
 ||blogikmob.top^$all
 ||blogiumbursellcusa20.icu^$all
@@ -183,6 +184,7 @@
 ||box.inf.ua^$all
 ||brainintelligencetraining.com^$all
 ||brand-shoes.com.ua^$all
+||brazilus-rokun.blog^$all
 ||breepy.gumloe.workers.dev^$all
 ||brokcomp.com.ua^$all
 ||brovistave.org^$all
