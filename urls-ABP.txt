@@ -1798,6 +1798,7 @@
 ||www.infinity-pay.com.ua^
 ||www.inter-grein.com^
 ||www.inter-payment.info^
+||www.jinyuan.xin^
 ||www.kassirticket.art^
 ||www.kia-avto.com.ua^
 ||www.lendlok.com^
