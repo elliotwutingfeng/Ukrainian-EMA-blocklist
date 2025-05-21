@@ -697,6 +697,7 @@
 ||mac-soft.com.ua^$all
 ||macombrotary.com^$all
 ||magicbem.com^$all
+||mailse.top^$all
 ||main-wallet.com^$all
 ||malta-casino.com^$all
 ||maneyveo.co.ua^$all
@@ -1857,6 +1858,7 @@
 ||www.shopsaguaro.club^$all
 ||www.skyauto.com.ua^$all
 ||www.slimpay.com.ua^$all
+||www.smaillink.vip^$all
 ||www.sneakersadi2018.com^$all
 ||www.start-pay.com.ua^$all
 ||www.sup-hit.com^$all
