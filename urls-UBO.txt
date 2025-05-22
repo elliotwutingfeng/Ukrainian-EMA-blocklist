@@ -1568,6 +1568,7 @@
 ||tovaronlineollx.za.com^$all
 ||trade.hermesfx.io^$all
 ||tradeengine24.ru^$all
+||tradeforge.pro^$all
 ||tradevisa.net^$all
 ||trading.ubkplatform.com^$all
 ||transfer2transfer.tech^$all
@@ -1585,6 +1586,7 @@
 ||true-portall3.xyz^$all
 ||trust-gos.top^$all
 ||trust-group.pro^$all
+||trustncrypto.com^$all
 ||ua-cash.com^$all
 ||ua-compenses.top^$all
 ||ua-dopomoga.store^$all
