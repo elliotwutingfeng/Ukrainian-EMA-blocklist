@@ -422,6 +422,7 @@
 ||finens.biz^$all
 ||firefly-line.com^$all
 ||firmusha.top^$all
+||firsteewix.cfd^$all
 ||fish-ok.com^$all
 ||fishing-centr.com^$all
 ||fivestore.com.ua^$all
