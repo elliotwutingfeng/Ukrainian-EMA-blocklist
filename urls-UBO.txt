@@ -153,6 +153,7 @@
 ||bistrie-viplati.club^$all
 ||bit8363.buzz^$all
 ||bitcoin-zuba.ga^$all
+||bizevolution.click^$all
 ||blago-kovel.shop^$all
 ||blago-privat24.3ida.site^$all
 ||blago-privat24.d3ya.site^$all
@@ -1415,6 +1416,7 @@
 ||satirdrama.fun^$all
 ||satyr-drama.fun^$all
 ||savings.wcomb.com^$all
+||scardopomot.jimdosite.com^$all
 ||scooter-m.com.ua^$all
 ||scooter.club.tilda.ws^$all
 ||screen-shop.com.ua^$all
