@@ -470,6 +470,7 @@
 ||globalp2p.tech^$all
 ||globalua38.com^$all
 ||globapay24.com^$all
+||glouagloibaldop.com^$all
 ||go2ere.com^$all
 ||goeth.io^$all
 ||gojisumoc.xyz^$all
@@ -715,6 +716,7 @@
 ||mc-ocean.com.ua^$all
 ||mchange.site^$all
 ||mediaua-gov.com^$all
+||medleymarket.com^$all
 ||mega-kassa.shop^$all
 ||mega-surveys.top^$all
 ||megacourses.ru^$all
