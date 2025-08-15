@@ -800,6 +800,7 @@
 ||msneu.com^$all
 ||mssg.me^$all
 ||msyie0-c2a7.cn^$all
+||mu.jnehrw.cyou^$all
 ||my-gov.uperevod.icu^$all
 ||my-gov.uplata.cyou^$all
 ||my-gov.uvyplata.icu^$all
