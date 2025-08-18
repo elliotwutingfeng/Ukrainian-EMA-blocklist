@@ -1589,6 +1589,7 @@
 ||tripa-dvisor.org^$all
 ||tris-gos.top^$all
 ||trpayuan.site^$all
+||trrecruiting.me^$all
 ||trud11.xyz^$all
 ||true-portall3.xyz^$all
 ||trust-gos.top^$all
