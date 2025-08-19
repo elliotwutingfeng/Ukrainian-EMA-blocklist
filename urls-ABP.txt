@@ -663,6 +663,7 @@
 ||likte.club^
 ||link-traidcompany.com^
 ||linkin.bio^
+||linktr.ee^
 ||litebox-ukr.com^
 ||lkonlinepersonal.za.com^
 ||loanalfa.tech^
@@ -1142,6 +1143,7 @@
 ||platizh.com^
 ||platizhmob.com^
 ||play.google.com^
+||pndauadpmgavsim.rest^
 ||pochta.co.ua^
 ||pochta1.com^
 ||pochta1.eu^
@@ -1492,6 +1494,7 @@
 ||standart-pay.com.ua^
 ||star-rates-award.brandj.xyz^
 ||starbox-terminal.com.ua^
+||starforge.icu^
 ||starplivatoon.online^
 ||start-auto.kiev.ua^
 ||startsmart.com.ua^
