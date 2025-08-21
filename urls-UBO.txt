@@ -548,6 +548,7 @@
 ||ibox-city.com.ua^$all
 ||iboyun.net^$all
 ||id-gov-dopomogaoon.one^$all
+||idgovuadpmgavsim.rest^$all
 ||idtnf.site^$all
 ||igenius.ga^$all
 ||igoog.ru^$all
@@ -891,6 +892,7 @@
 ||offvulkanx.ru^$all
 ||oficialonline.ru^$all
 ||oficialplus.ru^$all
+||oformyty-zayavku.run^$all
 ||ok-pay.com.ua^$all
 ||okko-bonus.live^$all
 ||okko.website^$all
@@ -1678,6 +1680,7 @@
 ||up2phone.top^$all
 ||uplata24.com^$all
 ||uptophone.top^$all
+||urbanquill.icu^$all
 ||usainua.net^$all
 ||usasklad.com.ua^$all
 ||usavlogcmpntrade2019.top^$all
