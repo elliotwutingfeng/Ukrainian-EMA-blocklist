@@ -455,6 +455,7 @@
 ||galaktika-ua.com^$all
 ||general-box.com^$all
 ||generalservice-ukr.com^$all
+||gerejatoraja.com^$all
 ||get-ua-comp.cfd^$all
 ||getpay-ua.com^$all
 ||gfc.kiev.ua^$all
