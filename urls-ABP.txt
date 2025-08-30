@@ -303,6 +303,7 @@
 ||dayprices.shop^
 ||dazzlingcortex.com^
 ||de-gos.top^
+||dealer-skoda.myfreesites.net^
 ||dear-gos.top^
 ||delivvery-uaa.shop^
 ||delliveryy.olxtne.workers.dev^
