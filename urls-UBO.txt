@@ -123,6 +123,7 @@
 ||azimutheshop.com^$all
 ||babasantji.com^$all
 ||babycar.od.ua^$all
+||babyfoodexplorers.com^$all
 ||back.multistream.space^$all
 ||badge-gos.top^$all
 ||bagtop.co.ua^$all
@@ -1561,6 +1562,7 @@
 ||theatrelive.online^$all
 ||theatresatir.fun^$all
 ||thefiniko.com^$all
+||thisisbeethoven.org^$all
 ||thoughtfulwear.top^$all
 ||time-helpers.store^$all
 ||time24pay.online^$all
@@ -1691,6 +1693,7 @@
 ||uu-quest.xyz^$all
 ||uuauq.cn^$all
 ||uz-gos.top^$all
+||valerianpartners.com^$all
 ||varaagamvipcommunity.com^$all
 ||vegas-x-mirror.online^$all
 ||verification-receive.pages.dev^$all
