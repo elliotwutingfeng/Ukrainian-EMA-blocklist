@@ -308,6 +308,7 @@
 ||dear-gos.top^$all
 ||delivvery-uaa.shop^$all
 ||delliveryy.olxtne.workers.dev^$all
+||denghellpingua.up.railway.app^$all
 ||designp.org^$all
 ||detskiykvartal.uk^$all
 ||diia-gov.pp.ua^$all
@@ -1624,6 +1625,7 @@
 ||ualenukrgo.pages.dev^$all
 ||uamovieonlinejobs.com^$all
 ||uanexthelp.pages.dev^$all
+||uaonlinezayvka.run^$all
 ||uapay.escrowbox.website^$all
 ||uapdvkomp.yolasite.com^$all
 ||uappl.org^$all
