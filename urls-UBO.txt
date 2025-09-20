@@ -1644,6 +1644,7 @@
 ||ukr.reg-dostavka.workers.dev^$all
 ||ukraine-furniture.com.ua^$all
 ||ukraine-payment.com.ua^$all
+||ukraine.brushsmile.shop^$all
 ||ukraineamazon.com^$all
 ||ukrainedrama.fun^$all
 ||ukraineebay.vip^$all
