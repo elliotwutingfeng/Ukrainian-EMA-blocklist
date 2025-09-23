@@ -651,6 +651,7 @@
 ||kyivstar.mirfilm.net^$all
 ||kyivstarbezlim.com^$all
 ||kypogatu.motends.com^$all
+||kyrdcvhui.help^$all
 ||lably.qurse.workers.dev^$all
 ||larimel.com.ua^$all
 ||lauaul.anuill.com^$all
