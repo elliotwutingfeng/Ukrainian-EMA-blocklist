@@ -623,6 +623,7 @@
 ||kids-balet-golos.kyiv.ua^$all
 ||kiev-favorit.com^$all
 ||kievfinance-ukr.com^$all
+||kievstar.live^$all
 ||kievstar.online^$all
 ||kievstar.org^$all
 ||king-electronik.com^$all
