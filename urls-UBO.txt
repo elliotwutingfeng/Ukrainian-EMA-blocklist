@@ -649,6 +649,7 @@
 ||kuhnyadom.com^$all
 ||kuplbllet.site^$all
 ||kyiv-tanci.online^$all
+||kyivstar-5g-invest.com^$all
 ||kyivstar.mirfilm.net^$all
 ||kyivstarbezlim.com^$all
 ||kypogatu.motends.com^$all
