@@ -453,6 +453,7 @@
 ||fs-system.ru^
 ||fumeky.xyz^
 ||funpay.ru^
+||future-connect-5g.com^
 ||fxclub.site^
 ||fxprime365.com^
 ||galaktika-ua.com^
@@ -622,6 +623,7 @@
 ||kia-kiev.info^
 ||kids-balet-golos.kyiv.ua^
 ||kiev-favorit.com^
+||kiev-invest.net^
 ||kievfinance-ukr.com^
 ||kievstar.live^
 ||kievstar.online^
@@ -649,6 +651,7 @@
 ||kuhnyadom.com^
 ||kuplbllet.site^
 ||kyiv-tanci.online^
+||kyivinvesting.net^
 ||kyivstar-5g-invest.com^
 ||kyivstar.mirfilm.net^
 ||kyivstarbezlim.com^
