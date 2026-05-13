@@ -103,6 +103,7 @@
 ||atlasbank.cc^$all
 ||auctionbaggage.com^$all
 ||aupayer.top^$all
+||aurum-ua.info^$all
 ||auto-col.info^$all
 ||auto-gos.top^$all
 ||auto-moment.com.ua^$all
@@ -1410,6 +1411,7 @@
 ||rastamogka.net^$all
 ||re-social.xyz^$all
 ||red-finance.com.ua^$all
+||redline-ua.net^$all
 ||refreshmentsubmarine.top^$all
 ||regadwerts.ru^$all
 ||rewison.ga^$all
