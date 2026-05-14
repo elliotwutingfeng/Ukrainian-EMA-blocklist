@@ -1528,6 +1528,7 @@
 ||strongbalck.com^$all
 ||strongdack.com^$all
 ||sum.afisha-theatre.info^$all
+||sunvolt-market.online^$all
 ||super-survey.top^$all
 ||suphit.club^$all
 ||suppay.biz^$all
