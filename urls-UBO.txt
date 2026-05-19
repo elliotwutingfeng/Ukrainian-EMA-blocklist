@@ -91,6 +91,7 @@
 ||arbitratrafik.blogspot.com^$all
 ||argentinaviplatafunpay.click^$all
 ||arlean.com.ua^$all
+||arozestsks.com^$all
 ||array-opros.top^$all
 ||arri-pay.top^$all
 ||asdopomogatyren.online^$all
