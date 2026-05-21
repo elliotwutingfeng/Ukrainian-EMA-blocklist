@@ -1555,6 +1555,7 @@
 ||technolend.com.ua^$all
 ||technotrader.com.ua^$all
 ||techport.net.ua^$all
+||techroom.com.ua^$all
 ||teh24.com.ua^$all
 ||tehniksplus.com.ua^$all
 ||tehnotop.net.ua^$all
@@ -1732,6 +1733,7 @@
 ||vsad.com.ua^$all
 ||vulkanslots.online^$all
 ||vyplataua.com^$all
+||wab.zoccokas.com^$all
 ||wbtheaterchain.vip^$all
 ||wdcfsfsfgbs.com^$all
 ||wealthinnovations.cfd^$all
