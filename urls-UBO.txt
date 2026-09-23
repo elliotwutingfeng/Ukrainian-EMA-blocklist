@@ -655,6 +655,7 @@
 ||kyiv-tanci.online^$all
 ||kyivinvesting.net^$all
 ||kyivstar-5g-invest.com^$all
+||kyivstar-games.club^$all
 ||kyivstar.mirfilm.net^$all
 ||kyivstarbezlim.com^$all
 ||kypogatu.motends.com^$all
