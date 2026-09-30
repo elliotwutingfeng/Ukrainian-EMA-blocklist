@@ -1499,6 +1499,7 @@
 ||socprofile.com^
 ||soctrud.com^
 ||sofly.trange.workers.dev^
+||softexa.name^
 ||softmax.co.ua^
 ||some-gos.top^
 ||sove-gos.top^
