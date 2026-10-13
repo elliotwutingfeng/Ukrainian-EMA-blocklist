@@ -819,6 +819,7 @@
 ||my-gov.uperevod.icu^
 ||my-gov.uplata.cyou^
 ||my-gov.uvyplata.icu^
+||myclik.tech^
 ||mycvsearch.com^
 ||myfrlathome.net^
 ||mymobile.in.ua^
@@ -1469,6 +1470,7 @@
 ||shop-bukovel.info^
 ||shop-good-store.wixsite.com^
 ||shop-ineed24.store^
+||shop-market.shop^
 ||shop-ua-appleua5.wixsite.com^
 ||shopibest.com.ua^
 ||shopistorev.xyz^
@@ -1499,6 +1501,7 @@
 ||socprofile.com^
 ||soctrud.com^
 ||sofly.trange.workers.dev^
+||softex.it.com^
 ||softexa.name^
 ||softmax.co.ua^
 ||some-gos.top^
