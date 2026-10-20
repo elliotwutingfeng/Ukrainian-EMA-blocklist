@@ -1651,6 +1651,7 @@
 ||ubi-investments.com^$all
 ||ubi.investments^$all
 ||ukawar.art.blog^$all
+||ukr-childs.basting.world^$all
 ||ukr-help.online^$all
 ||ukr-money.com.ua^$all
 ||ukr-one.xyz^$all
