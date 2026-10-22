@@ -1339,6 +1339,7 @@
 ||prom.ua.snasty.shop^$all
 ||promo-list.com^$all
 ||prostosite.com.ua^$all
+||puls-moto.com.ua^$all
 ||pumb-24.su^$all
 ||pumb-monitoring.info^$all
 ||pumb.3dss-pays.info^$all
