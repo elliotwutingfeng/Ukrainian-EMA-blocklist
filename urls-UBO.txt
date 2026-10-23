@@ -819,6 +819,7 @@
 ||my-gov.uperevod.icu^$all
 ||my-gov.uplata.cyou^$all
 ||my-gov.uvyplata.icu^$all
+||myclik.cc^$all
 ||myclik.live^$all
 ||myclik.tech^$all
 ||mycvsearch.com^$all
