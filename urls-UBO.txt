@@ -313,6 +313,7 @@
 ||denghellpingua.up.railway.app^$all
 ||designp.org^$all
 ||detskiykvartal.uk^$all
+||deye-power.space^$all
 ||diia-gov.pp.ua^$all
 ||diia8000gov.me^$all
 ||dimebox.com.ua^$all
