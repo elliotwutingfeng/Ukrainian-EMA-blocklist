@@ -811,6 +811,7 @@
 ||moshoper.in.ua^$all
 ||moskassaplus.shop^$all
 ||mospaidsmarket.top^$all
+||motofun.com.ua^$all
 ||motohouseua.com^$all
 ||moun.vilpataua-helpssoc.za.com^$all
 ||msneu.com^$all
