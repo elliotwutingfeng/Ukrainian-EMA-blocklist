@@ -1507,6 +1507,7 @@
 ||socprofile.com^$all
 ||soctrud.com^$all
 ||sofly.trange.workers.dev^$all
+||softex.beauty^$all
 ||softex.it.com^$all
 ||softex.watch^$all
 ||softexa.name^$all
