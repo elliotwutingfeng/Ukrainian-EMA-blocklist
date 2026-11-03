@@ -101,6 +101,7 @@
 ||atb-bonus.com^$all
 ||atb-market.space^$all
 ||atbmarket.life^$all
+||atbmi.onrender.com^$all
 ||atkassa24.top^$all
 ||atlasbank.cc^$all
 ||auctionbaggage.com^$all
