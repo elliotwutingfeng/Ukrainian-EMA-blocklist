@@ -1512,6 +1512,7 @@
 ||softex.it.com^$all
 ||softex.watch^$all
 ||softexa.name^$all
+||softexe.site^$all
 ||softmax.co.ua^$all
 ||some-gos.top^$all
 ||sove-gos.top^$all
