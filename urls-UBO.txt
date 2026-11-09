@@ -828,6 +828,7 @@
 ||myclik.tech^$all
 ||mycvsearch.com^$all
 ||myfrlathome.net^$all
+||myklic.cc^$all
 ||mymobile.in.ua^$all
 ||mymoneypay.ulcraft.com^$all
 ||mypay.co.ua^$all
@@ -1510,6 +1511,7 @@
 ||sofly.trange.workers.dev^$all
 ||softex.beauty^$all
 ||softex.it.com^$all
+||softex.skin^$all
 ||softex.watch^$all
 ||softexa.name^$all
 ||softexe.site^$all

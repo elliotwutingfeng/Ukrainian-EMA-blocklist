@@ -839,6 +839,7 @@ myclik.live
 myclik.tech
 mycvsearch.com
 myfrlathome.net
+myklic.cc
 mymobile.in.ua
 mymoneypay.ulcraft.com
 mypay.co.ua
@@ -1535,6 +1536,7 @@ soctrud.com
 sofly.trange.workers.dev
 softex.beauty
 softex.it.com
+softex.skin
 softex.watch
 softexa.name
 softexe.site
