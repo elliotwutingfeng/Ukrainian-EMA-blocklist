@@ -829,6 +829,7 @@
 ||mycvsearch.com^
 ||myfrlathome.net^
 ||myklic.cc^
+||myklic.com.ua^
 ||mymobile.in.ua^
 ||mymoneypay.ulcraft.com^
 ||mypay.co.ua^
