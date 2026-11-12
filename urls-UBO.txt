@@ -254,6 +254,7 @@
 ||centrprices.shop^$all
 ||cerv-gos.top^$all
 ||ceshex.com^$all
+||changemyminds.com^$all
 ||cheap-gos.top^$all
 ||checkmoney.com.ua^$all
 ||chekmobile.in.ua^$all
