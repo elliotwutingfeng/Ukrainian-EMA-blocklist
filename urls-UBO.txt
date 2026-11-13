@@ -831,6 +831,7 @@
 ||myfrlathome.net^$all
 ||myklic.cc^$all
 ||myklic.com.ua^$all
+||myklic.online^$all
 ||mymobile.in.ua^$all
 ||mymoneypay.ulcraft.com^$all
 ||mypay.co.ua^$all
