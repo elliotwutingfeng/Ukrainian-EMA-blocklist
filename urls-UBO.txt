@@ -1500,6 +1500,7 @@
 ||skyway.llucky.space^$all
 ||slgf-prom.getmewin.com^$all
 ||slimpay.com.ua^$all
+||smart-fox.in.ua^$all
 ||smart-max.com.ua^$all
 ||smart-pay.com.ua^$all
 ||smartlead.com.ua^$all
