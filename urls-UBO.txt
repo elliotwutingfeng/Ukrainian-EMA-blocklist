@@ -1476,6 +1476,7 @@
 ||sendwithcard.top^$all
 ||sent-rfi.online^$all
 ||sentsbrf.online^$all
+||seren.com.ua^$all
 ||sfcitycampsandleagues.com^$all
 ||shar-city.com.ua^$all
 ||shop-bukovel.info^$all
