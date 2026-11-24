@@ -387,6 +387,7 @@
 ||emtehno.com^$all
 ||enow-survey.top^$all
 ||epaidslife.shop^$all
+||epica.net.ua^$all
 ||epicentrk-bonus.online^$all
 ||epicentrk-bonus.store^$all
 ||epicentrk-priz.top^$all
@@ -1372,6 +1373,7 @@
 ||pyaformob.info^$all
 ||qab6u.shop^$all
 ||qs-dopomoga.me^$all
+||quanta.com.ua^$all
 ||quick-collecktion.ru^$all
 ||quickpaymentss.expert^$all
 ||rabota-poshta.eu^$all
