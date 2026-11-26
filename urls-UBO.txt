@@ -1436,6 +1436,7 @@
 ||rikter-lor.ru^$all
 ||ringo-bet.net^$all
 ||rmarket.club^$all
+||roshenglow.com^$all
 ||ross.biz.ua^$all
 ||royale-casino.net^$all
 ||rozeetka.ru^$all
